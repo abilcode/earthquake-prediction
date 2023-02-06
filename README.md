@@ -28,9 +28,7 @@ jupyter lab
     |--artifacts
     |--data
         |--raw
-        |--interim
         |--processed
-        |--externals
     |--notebooks
     |--queries
     |--reports
