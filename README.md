@@ -19,7 +19,7 @@ pip install virtualenv
 virtualenv [enviroment name]
 .\[enviroment name]\Scripts\activate
 pip install -r requirements.txt
-jupyter lab
+jupyter lab (optional)
 ```
 
 ## Structure
