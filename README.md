@@ -11,7 +11,7 @@ pip install virtualenv
 virtualenv datavidia_final
 source datavidia_final/bin/activate
 pip install -r requirements.txt
-jupyter lab
+jupyter lab (optional)
 ```
 or run this script for windows users
 ```
