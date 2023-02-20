@@ -1,0 +1,594 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-08T04:58:58.477Z,-2.7657,139.1064,54.934,5,mww,126,18,6.851,0.82,us,us6000j7tx,2023-02-07T01:02:11.562Z,"170 km W of Abepura, Indonesia",earthquake,8.26,4.982,0.098,10,reviewed,us,us
+2022-12-08T00:50:55.569Z,-6.7125,107.1421,107,5.8,mww,214,17,3.292,0.79,us,us6000j7r0,2023-01-29T23:15:19.685Z,"17 km NW of Ciranjang-hilir, Indonesia",earthquake,7.81,1.888,0.052,35,reviewed,us,us
+2022-12-06T06:07:48.037Z,-10.7234,113.386,17,5.9,mww,102,45,2.363,0.4,us,us6000j77l,2023-01-13T07:21:41.058Z,"269 km S of Kencong, Indonesia",earthquake,6.42,1.833,0.056,31,reviewed,us,us
+2022-12-03T09:49:39.854Z,-7.2249,107.6097,116,5.7,mwb,126,50,0.239,0.49,us,us6000j6k5,2023-02-01T20:13:53.040Z,"19 km E of Banjar, Indonesia",earthquake,8.32,1.859,0.047,44,reviewed,us,us
+2022-11-18T14:07:00.628Z,-4.6015,100.5808,10,5.4,mb,64,106,2.38,0.48,us,us7000iqqs,2023-01-28T19:58:26.040Z,"206 km WSW of Bengkulu, Indonesia",earthquake,5.81,1.857,0.086,46,reviewed,us,us
+2022-11-18T13:37:08.687Z,-4.9043,100.7862,25,6.9,mww,99,34,2.229,0.52,us,us7000iqpn,2023-01-28T19:58:26.040Z,"204 km SW of Bengkulu, Indonesia",earthquake,6.86,1.872,0.05,39,reviewed,us,us
+2022-11-16T06:01:32.035Z,-4.7623,100.7623,10,5.5,mww,111,93,2.223,0.85,us,us7000iq2d,2023-01-28T19:58:18.040Z,"197 km WSW of Bengkulu, Indonesia",earthquake,6.61,1.789,0.061,26,reviewed,us,us
+2022-11-06T00:03:12.098Z,2.5867,124.6644,231,5.6,mww,310,13,3.247,0.88,us,us7000imsg,2023-01-21T19:27:09.040Z,"124 km N of Manado, Indonesia",earthquake,7.18,1.833,0.05,38,reviewed,us,us
+2022-09-30T19:28:40.152Z,2.1277,98.9004,18.363,5.9,mww,211,32,0.563,0.8,us,us6000ipri,2022-12-03T22:02:54.040Z,"41 km NNE of Sibolga, Indonesia",earthquake,4.59,1.394,0.052,35,reviewed,us,us
+2022-09-29T11:34:44.644Z,-2.4346,139.9549,26.41,5.4,mb,100,25,7.713,1.22,us,us6000ipap,2022-12-03T22:02:39.040Z,"near the north coast of Papua, Indonesia",earthquake,7.29,4.09,0.045,164,reviewed,us,us
+2022-09-23T20:52:58.398Z,3.8109,96.0514,42.181,6.2,mww,197,20,1.668,0.73,us,us7000iaka,2022-11-26T20:58:00.040Z,"37 km SSW of Meulaboh, Indonesia",earthquake,6.54,3.541,0.059,28,reviewed,us,us
+2022-09-11T04:16:33.158Z,-11.0482,110.8802,18.548,5.4,mb,87,32,3.136,0.62,us,us7000i74s,2022-11-19T23:02:36.040Z,"",earthquake,7.86,3.378,0.054,121,reviewed,us,us
+2022-09-10T23:24:00.499Z,-1.2041,98.618,10,5.7,mb,224,20,2.701,0.67,us,us6000iisl,2022-11-19T23:02:16.040Z,"179 km WSW of Pariaman, Indonesia",earthquake,7.25,1.758,0.043,189,reviewed,us,us
+2022-09-10T23:10:43.721Z,-1.149,98.654,20,6,mww,268,18,2.664,0.61,us,us6000iisb,2022-11-19T23:02:15.040Z,"173 km WSW of Pariaman, Indonesia",earthquake,6.9,1.696,0.05,39,reviewed,us,us
+2022-09-10T00:05:12.947Z,-2.2313,138.1784,21,6.2,mww,150,24,5.963,0.62,us,us6000iikp,2022-11-19T23:02:11.040Z,"260 km ESE of Biak, Indonesia",earthquake,7.75,1.788,0.046,45,reviewed,us,us
+2022-09-09T23:44:11.525Z,-2.2644,138.1792,30,5.9,mww,136,21,5.96,0.71,us,us6000iikc,2022-11-15T19:05:55.040Z,"262 km ESE of Biak, Indonesia",earthquake,6.98,1.709,0.063,24,reviewed,us,us
+2022-09-09T23:31:47.409Z,-2.2492,138.1979,18,6.2,mww,142,15,5.98,0.64,us,us6000iika,2022-11-15T19:05:55.040Z,"Papua, Indonesia",earthquake,3.4,1.711,0.047,43,reviewed,us,us
+2022-09-07T18:09:35.437Z,-3.19,101.4217,34,5.4,mww,137,39,1.922,0.82,us,us6000ihx6,2022-11-15T19:05:46.040Z,"115 km NW of Bengkulu, Indonesia",earthquake,7.53,1.761,0.093,11,reviewed,us,us
+2022-08-29T03:29:13.691Z,-0.988,98.6046,17,6.2,mww,118,23,2.498,0.64,us,us7000i38s,2022-11-06T04:38:22.040Z,"173 km WSW of Pariaman, Indonesia",earthquake,6.77,1.603,0.06,27,reviewed,us,us
+2022-08-28T22:34:37.140Z,-1.0173,98.6652,43,5.7,mww,107,26,2.55,0.59,us,us7000i37c,2022-11-06T04:38:30.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,7.34,1.88,0.08,15,reviewed,us,us
+2022-08-23T14:31:39.374Z,-5.0926,103.079,45.258,6.2,mww,115,42,0.738,0.72,us,us6000id0t,2022-11-01T15:13:03.040Z,"119 km S of Pagar Alam, Indonesia",earthquake,5.19,3.158,0.046,46,reviewed,us,us
+2022-08-22T08:36:32.698Z,-8.9212,115.696,128,5.4,mww,144,42,1.591,0.87,us,us6000icp4,2022-11-01T15:12:48.040Z,"Bali region, Indonesia",earthquake,8.48,1.89,0.059,28,reviewed,us,us
+2022-08-18T07:46:27.625Z,0.3574,124.3718,173.104,5.5,mww,111,47,2.119,0.6,us,us6000ibtm,2022-10-28T02:26:56.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.75,5.362,0.059,28,reviewed,us,us
+2022-08-17T12:56:31.898Z,-7.0024,125.4656,480.972,5.5,mww,169,29,2.981,0.7,us,us6000ibju,2022-10-28T02:26:45.040Z,"171 km N of Metinaro, Timor Leste",earthquake,9.73,4.45,0.063,24,reviewed,us,us
+2022-08-14T02:47:46.891Z,1.7974,126.3859,30,5.7,mww,116,32,1.414,1.02,us,us6000iamw,2022-10-28T02:25:47.040Z,"157 km NW of Ternate, Indonesia",earthquake,6.05,1.765,0.062,25,reviewed,us,us
+2022-08-09T12:59:40.550Z,-6.7235,129.9544,149,5.6,mww,102,30,1.828,0.6,us,us6000i9cd,2022-10-21T23:19:44.040Z,"Banda Sea",earthquake,3.21,1.928,0.04,59,reviewed,us,us
+2022-07-24T06:46:38.903Z,0.4649,126.2882,10.83,5.3,mww,137,26,1.121,0.41,us,us7000ht2x,2022-10-01T22:09:47.040Z,"127 km WSW of Ternate, Indonesia",earthquake,3.24,4.074,0.071,19,reviewed,us,us
+2022-07-23T07:35:44.890Z,-7.5885,122.3837,10,5.4,mww,144,39,1.05,0.61,us,us7000hswx,2022-10-01T22:09:44.040Z,"115 km N of Maumere, Indonesia",earthquake,3.83,1.826,0.071,19,reviewed,us,us
+2022-07-23T06:09:15.535Z,-7.5962,122.4103,10,5.4,mww,101,59,1.047,0.61,us,us7000hswf,2022-10-01T22:09:44.040Z,"115 km N of Maumere, Indonesia",earthquake,5.18,1.766,0.073,18,reviewed,us,us
+2022-07-19T23:46:50.701Z,-4.1438,102.1383,52,5.3,mww,161,26,0.843,0.69,us,us7000hrxy,2022-09-27T16:57:08.040Z,"southern Sumatra, Indonesia",earthquake,7.34,1.873,0.098,10,reviewed,us,us
+2022-06-22T05:01:19.152Z,-7.3221,120.4333,499.8,5.6,mww,129,40,2.212,0.95,us,us7000hj75,2022-08-28T03:20:03.040Z,"142 km N of Ruteng, Indonesia",earthquake,7.7,3.5,0.059,28,reviewed,us,us
+2022-06-08T05:32:37.927Z,-2.7693,118.5386,23.58,5.8,mww,127,25,2.321,0.85,us,us7000hfu0,2022-08-13T21:52:24.040Z,"39 km WSW of Mamuju, Indonesia",earthquake,5.9,3.1,0.063,24,reviewed,us,us
+2022-06-07T13:24:13.974Z,0.1487,123.6638,131.78,5.6,mww,123,22,1.481,0.77,us,us7000hfjt,2022-08-13T21:52:42.040Z,"79 km ESE of Gorontalo, Indonesia",earthquake,6.3,3.9,0.038,65,reviewed,us,us
+2022-05-31T07:10:09.517Z,-5.84,104.3485,61.05,5.2,mww,122,42,2.021,1.09,us,us7000hdqr,2022-08-06T22:13:09.040Z,"",earthquake,7.7,4.6,0.093,11,reviewed,us,us
+2022-05-27T02:36:05.556Z,-8.2572,127.2079,49,6.2,mww,118,19,3.264,1.32,us,us7000hcwg,2022-08-02T19:50:56.040Z,"37 km NE of Lospalos, Timor Leste",earthquake,6.9,1.8,0.075,17,reviewed,us,us
+2022-05-16T18:58:25.037Z,-5.2399,102.0088,23,5.8,mww,143,31,1.286,0.85,us,us6000hljt,2022-07-24T02:39:12.040Z,"",earthquake,7.4,1.8,0.06,27,reviewed,us,us
+2022-05-08T21:51:39.714Z,1.8437,127.2017,39.28,5.6,mww,131,36,1.077,1.01,us,us7000h803,2022-07-22T18:31:07.040Z,"90 km W of Tobelo, Indonesia",earthquake,6.4,3.6,0.068,21,reviewed,us,us
+2022-04-24T23:50:32.178Z,-3.7975,140.3996,58.15,5.1,mww,103,19,7.172,0.7,us,us6000hg4t,2022-07-05T03:40:24.040Z,"135 km S of Abepura, Indonesia",earthquake,3.7,5,0.089,12,reviewed,us,us
+2022-04-17T05:49:29.667Z,-1.3714,136.9275,18.49,5.4,mww,,53,4.921,0.46,us,us7000h2ti,2022-06-26T01:18:43.040Z,"96 km ESE of Biak, Indonesia",earthquake,7.6,4.2,0.086,13,reviewed,us,us
+2022-04-09T21:22:12.153Z,-3.1605,139.8304,40.12,5.3,mww,,13,1.083,0.69,us,us7000h0yv,2022-06-20T22:07:37.040Z,"108 km SW of Abepura, Indonesia",earthquake,7.4,4.5,0.093,11,reviewed,us,us
+2022-04-05T01:44:08.299Z,1.9361,126.8713,36,5.9,mww,,28,1.258,0.92,us,us7000gzq8,2022-06-11T20:21:04.040Z,"128 km W of Tobelo, Indonesia",earthquake,6.4,1.9,0.063,24,reviewed,us,us
+2022-03-13T21:38:43.829Z,-0.6087,98.5291,29.19,5.6,mww,,35,2.125,0.64,us,us6000h49u,2022-05-27T14:55:22.040Z,"177 km W of Pariaman, Indonesia",earthquake,4,3,0.093,11,reviewed,us,us
+2022-03-13T21:09:22.258Z,-0.6294,98.6259,28,6.7,mww,,43,2.188,0.92,us,us6000h48e,2022-05-27T14:55:19.040Z,"166 km W of Pariaman, Indonesia",earthquake,5.2,1.8,0.062,25,reviewed,us,us
+2022-03-05T12:02:41.150Z,4.6517,95.0249,42,5.5,mww,,56,4.188,0.61,us,us6000h2an,2022-05-14T21:52:17.040Z,"northern Sumatra, Indonesia",earthquake,7.1,1.9,0.056,31,reviewed,us,us
+2022-02-25T01:39:26.554Z,0.219,100.1006,4,6.1,mww,,25,0.945,1.37,us,us6000gzyg,2022-10-21T05:07:54.889Z,"65 km NNW of Bukittinggi, Indonesia",earthquake,5.9,1.7,0.052,35,reviewed,us,us
+2022-02-21T16:22:33.830Z,-8.0904,120.7908,10,5.5,mww,,50,1.53,0.83,us,us7000gmnq,2022-05-04T13:39:20.040Z,"67 km NNE of Ruteng, Indonesia",earthquake,5.9,1.8,0.056,31,reviewed,us,us
+2022-02-21T12:35:58.794Z,-8.2068,120.6211,20,5.7,mww,,39,1.655,0.67,us,us7000gmmb,2022-05-04T13:39:17.040Z,"47 km NNE of Ruteng, Indonesia",earthquake,6.4,1.9,0.063,24,reviewed,us,us
+2022-02-13T08:21:47.647Z,0.9313,126.2631,38.1,5.7,mww,,64,1.114,0.67,us,us7000gkgx,2022-04-30T14:18:05.040Z,"125 km W of Ternate, Indonesia",earthquake,6,1.7,0.057,30,reviewed,us,us
+2022-02-01T19:25:10.031Z,-7.483,128.3132,119,6,mww,,14,3,0.8,us,us7000gh1g,2022-04-15T17:57:11.040Z,"184 km NE of Lospalos, Timor Leste",earthquake,4.3,1.8,0.047,43,reviewed,us,us
+2022-01-22T02:26:13.323Z,3.6724,126.6596,21,6,mww,,34,2.966,0.96,us,us7000ge38,2022-04-09T20:18:46.040Z,"232 km SE of Sarangani, Philippines",earthquake,6,1.8,0.048,42,reviewed,us,us
+2022-01-20T10:44:18.392Z,-2.4732,140.0375,35,5.5,mww,,23,7.335,0.91,us,us7000gdi6,2022-04-01T17:40:21.040Z,"67 km WNW of Abepura, Indonesia",earthquake,8.2,1.9,0.098,10,reviewed,us,us
+2022-01-19T14:29:43.312Z,-3.4837,130.9525,10,5.3,mww,,28,1.41,0.51,us,us7000gd5g,2022-04-01T17:40:19.040Z,"Seram, Indonesia",earthquake,6.3,1.8,0.083,14,reviewed,us,us
+2022-01-14T09:49:20.820Z,-7.0422,105.2063,34.46,5.4,mww,,23,2.4,0.5,us,us7000gbww,2022-03-19T22:08:01.040Z,"100 km SW of Labuan, Indonesia",earthquake,5.6,3.7,0.098,10,reviewed,us,us
+2022-01-14T09:05:41.461Z,-6.86,105.2887,33,6.6,mww,,22,2.418,0.54,us,us7000gbu4,2022-03-19T22:08:01.040Z,"80 km SW of Labuan, Indonesia",earthquake,3.5,1.7,0.063,24,reviewed,us,us
+2022-01-09T21:59:05.789Z,1.4713,127.8516,10,5.4,mww,,50,0.847,0.74,us,us7000gaf4,2022-08-06T14:42:19.988Z,"33 km SSW of Tobelo, Indonesia",earthquake,4.9,1.8,0.093,11,reviewed,us,us
+2022-01-04T20:55:46.858Z,-4.8065,125.0808,544,6,mww,,10,4.393,0.99,us,us7000g90c,2022-03-12T22:19:07.040Z,"284 km E of Katabu, Indonesia",earthquake,7.5,1.9,0.048,42,reviewed,us,us
+2021-12-30T13:13:17.562Z,-0.0798,125.2498,42,5.5,mww,,42,2.279,1.05,us,us7000g7yh,2022-03-05T23:10:56.040Z,"157 km SSE of Tondano, Indonesia",earthquake,7.1,1.9,0.069,20,reviewed,us,us
+2021-12-29T18:25:51.962Z,-7.5482,127.5773,165.49,7.3,mww,,19,3.713,1.06,us,us7000g7lx,2022-03-05T23:10:53.040Z,"125 km NNE of Lospalos, Timor Leste",earthquake,6.3,3.3,0.052,36,reviewed,us,us
+2021-12-26T15:01:30.799Z,-0.0201,123.4601,107.55,5.4,mww,,28,1.226,0.89,us,us6000gffl,2022-03-05T23:10:42.040Z,"75 km SE of Gorontalo, Indonesia",earthquake,5.7,4,0.047,43,reviewed,us,us
+2021-12-26T02:22:53.267Z,2.1321,126.624,26.42,5.3,mww,,40,1.541,1.17,us,us6000gfbr,2022-03-05T23:10:41.040Z,"160 km WNW of Tobelo, Indonesia",earthquake,5.9,2.6,0.093,11,reviewed,us,us
+2021-12-16T04:26:06.982Z,-7.0438,128.6847,10,5.6,mww,,30,2.754,0.85,us,us6000gcnj,2022-02-24T21:01:33.040Z,"247 km NE of Lospalos, Timor Leste",earthquake,5.8,1.6,0.073,18,reviewed,us,us
+2021-12-14T08:31:31.397Z,-7.6129,122.3166,10,5.6,mb,,28,1.019,0.86,us,us6000gc4q,2022-02-24T21:00:43.040Z,"111 km N of Maumere, Indonesia",earthquake,6,1.7,0.049,150,reviewed,us,us
+2021-12-14T03:25:27.949Z,-7.605,122.2449,10,5.8,mb,,67,1.024,0.7,us,us6000gcaj,2022-02-24T21:00:56.040Z,"112 km N of Maumere, Indonesia",earthquake,4.2,1.8,0.094,41,reviewed,us,us
+2021-12-14T03:23:30.443Z,-7.6086,122.2473,10,5.7,mb,,68,1.02,1.22,us,us6000gcdu,2022-02-24T21:01:06.040Z,"111 km N of Maumere, Indonesia",earthquake,5.2,1.9,0.117,26,reviewed,us,us
+2021-12-14T03:20:23.809Z,-7.6033,122.2274,14.27,7.3,mww,,32,1.025,0.61,us,us6000gc2a,2022-02-24T21:00:39.040Z,"Flores Sea",earthquake,5.1,2.6,0.055,32,reviewed,us,us
+2021-12-11T15:29:46.358Z,-7.0422,128.6902,13,5.4,mww,,39,2.75,1.07,us,us6000gbfn,2022-02-24T20:59:56.040Z,"248 km NE of Lospalos, Timor Leste",earthquake,5,1.7,0.098,10,reviewed,us,us
+2021-12-05T01:10:56.959Z,-1.9016,140.5378,12.95,5.3,mww,,26,0.631,0.88,us,us6000g962,2022-02-12T23:05:56.040Z,"72 km NNW of Jayapura, Indonesia",earthquake,6.3,2.4,0.075,17,reviewed,us,us
+2021-12-04T23:47:55.581Z,4.0932,128.1359,149,6,mww,,10,3.387,1.04,us,us6000g944,2022-02-12T23:05:55.040Z,"261 km N of Tobelo, Indonesia",earthquake,6.5,1.8,0.045,47,reviewed,us,us
+2021-11-10T17:46:40.379Z,-4.3244,134.1805,10,6,mww,,22,2.38,0.85,us,us7000ft0f,2022-01-15T20:51:45.040Z,"181 km SW of Nabire, Indonesia",earthquake,6.1,1.7,0.049,40,reviewed,us,us
+2021-11-08T05:05:56.449Z,-0.5846,123.5502,10,5.4,mb,,23,0.901,0.84,us,us7000fsbt,2022-01-15T20:51:39.040Z,"Sulawesi, Indonesia",earthquake,4.6,1.7,0.041,201,reviewed,us,us
+2021-11-06T14:37:36.731Z,-0.0451,124.2812,34,6,mww,,20,1.805,1.11,us,us7000fs08,2022-01-15T20:51:36.040Z,"150 km ESE of Gorontalo, Indonesia",earthquake,3.1,1.8,0.06,27,reviewed,us,us
+2021-11-04T02:42:44.032Z,-2.9473,129.3394,18,5.7,mww,,21,2.823,0.78,us,us7000fraj,2022-01-14T17:58:59.040Z,"63 km NE of Amahai, Indonesia",earthquake,5.8,1.7,0.083,14,reviewed,us,us
+2021-11-02T16:43:52.813Z,-6.8798,130.4969,94,5.9,mww,,29,4.304,0.82,us,us7000fqve,2022-01-14T17:58:54.040Z,"285 km WSW of Tual, Indonesia",earthquake,6.8,1.9,0.068,21,reviewed,us,us
+2021-11-01T17:04:16.557Z,0.2081,96.709,8,6,mww,,17,1.391,1,us,us7000fqjc,2022-01-14T17:58:50.040Z,"253 km S of Sinabang, Indonesia",earthquake,7.2,1.7,0.047,44,reviewed,us,us
+2021-10-30T11:11:42.064Z,-7.7093,125.4591,17.43,5.5,mww,,34,2.349,0.54,us,us7000fq2q,2022-01-14T17:58:44.040Z,"94 km N of Dili, Timor Leste",earthquake,6.4,4,0.065,23,reviewed,us,us
+2021-10-22T02:21:15.739Z,-8.6515,112.5513,72.87,4.9,mww,,29,1.593,1.28,us,us6000fwmg,2022-01-08T17:41:52.040Z,"53 km SSW of Dampit, Indonesia",earthquake,5.2,4.2,0.098,10,reviewed,us,us
+2021-10-14T15:16:29.752Z,1.2369,126.1559,41,5.5,mww,,13,1.295,0.93,us,us6000fuke,2021-12-18T19:59:05.040Z,"134 km ESE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,5.4,1.8,0.063,24,reviewed,us,us
+2021-10-11T12:34:36.079Z,0.8073,126.2042,36.86,5.7,mww,,58,1.163,0.82,us,us6000ftpp,2021-12-18T19:58:53.040Z,"131 km W of Ternate, Indonesia",earthquake,5.9,6.2,0.071,19,reviewed,us,us
+2021-09-22T12:03:30.086Z,1.8112,126.5903,33.84,5.4,mww,,67,1.291,0.78,us,us7000fdf1,2022-08-08T13:32:59.525Z,"143 km NW of Ternate, Indonesia",earthquake,6.6,5,0.098,10,reviewed,us,us
+2021-08-28T12:27:25.795Z,-3.5358,140.0996,30,5.6,mww,,29,7.407,0.46,us,us7000f57q,2021-11-06T20:28:55.040Z,"119 km SSW of Abepura, Indonesia",earthquake,7.7,1.9,0.093,11,reviewed,us,us
+2021-08-27T10:22:26.052Z,5.671,125.0293,54.5,5.6,mww,,35,1.493,0.47,us,us7000f4kz,2021-11-06T20:29:01.040Z,"20 km S of Malbang, Philippines",earthquake,6.1,5.9,0.065,23,reviewed,us,us
+2021-08-26T02:14:22.070Z,-0.8389,121.5296,8,5.7,mww,,29,1.258,0.83,us,us7000f3zp,2022-08-08T15:55:16.029Z,"106 km NE of Poso, Indonesia",earthquake,3.7,1.7,0.083,14,reviewed,us,us
+2021-08-05T05:06:07.763Z,-7.5981,122.8179,540.83,5.4,mww,,32,1.18,0.54,us,us6000f2cv,2021-10-14T01:07:34.040Z,"131 km NNE of Maumere, Indonesia",earthquake,9.4,6.3,0.083,14,reviewed,us,us
+2021-08-02T22:48:50.780Z,-3.2114,100.1976,20,5.8,mww,,41,2.979,0.81,us,us6000f1nr,2021-10-14T01:05:53.040Z,"184 km SW of Sungai Penuh, Indonesia",earthquake,3.5,1.8,0.086,13,reviewed,us,us
+2021-08-02T05:01:19.974Z,-4.499,133.958,10,6,mww,,33,2.317,0.41,us,us6000f1ea,2021-10-14T01:05:23.040Z,"182 km NE of Tual, Indonesia",earthquake,6.3,1.8,0.093,11,reviewed,us,us
+2021-07-26T12:09:06.655Z,-0.7679,121.9083,11,6.3,mww,,18,0.905,1.29,us,us6000ez5x,2022-08-09T06:14:13.862Z,"99 km WNW of Luwuk, Indonesia",earthquake,5,1.7,0.045,47,reviewed,us,us
+2021-07-26T03:52:02.270Z,-0.6732,121.9049,9.75,5.8,mww,,16,0.94,1.41,us,us6000ez2l,2021-10-03T05:22:06.040Z,"102 km WNW of Luwuk, Indonesia",earthquake,4.3,2.8,0.069,20,reviewed,us,us
+2021-07-10T02:41:09.501Z,1.8228,96.9785,17.35,5.4,mb,,36,0.788,0.87,us,us6000etz0,2021-09-17T22:49:15.040Z,"98 km SE of Sinabang, Indonesia",earthquake,5.7,3.2,0.041,204,reviewed,us,us
+2021-07-10T00:51:08.753Z,2.9677,126.5601,42.57,5.5,mb,,32,2.325,0.76,us,us6000etxn,2021-09-17T22:49:12.040Z,"211 km NW of Tobelo, Indonesia",earthquake,6.6,4.1,0.037,258,reviewed,us,us
+2021-07-10T00:43:55.986Z,2.9494,126.4984,44.33,6.1,mww,,32,2.33,0.92,us,us6000etxj,2021-09-17T22:49:11.040Z,"215 km NW of Tobelo, Indonesia",earthquake,6.6,3.6,0.065,23,reviewed,us,us
+2021-07-09T13:31:09.481Z,0.1413,123.6629,119.63,5.6,mww,,16,1.474,0.92,us,us6000etn1,2021-09-17T22:48:55.040Z,"79 km ESE of Gorontalo, Indonesia",earthquake,6.3,2.9,0.044,49,reviewed,us,us
+2021-06-24T02:42:01.141Z,-2.5815,127.5455,8.06,4.9,mww,,39,3.335,0.85,us,us6000ep81,2021-08-27T18:58:46.040Z,"142 km NNW of Ambon, Indonesia",earthquake,6.4,3.3,0.089,12,reviewed,us,us
+2021-06-24T02:24:55.239Z,-5.9581,128.2804,337,5.7,mww,,16,3.608,0.71,us,us6000ep7f,2021-08-27T18:58:45.040Z,"250 km S of Ambon, Indonesia",earthquake,7.3,1.9,0.058,29,reviewed,us,us
+2021-06-16T04:43:07.451Z,-3.558,129.5238,7,5.9,mww,,15,2.793,0.58,us,us7000edf6,2022-08-09T05:34:40.628Z,"71 km ESE of Amahai, Indonesia",earthquake,5.7,1.7,0.062,25,reviewed,us,us
+2021-06-11T02:23:43.042Z,0.0519,124.2976,60.14,5.6,mww,,19,1.873,1.39,us,us7000ebx6,2021-08-26T21:59:04.040Z,"147 km ESE of Gorontalo, Indonesia",earthquake,6.1,3.8,0.073,18,reviewed,us,us
+2021-06-04T13:45:13.276Z,0.34,126.2897,8.6,5.3,mww,,26,1.159,1,us,us7000e9p4,2021-08-24T21:35:47.040Z,"Molucca Sea",earthquake,5.6,3,0.078,16,reviewed,us,us
+2021-06-03T10:09:58.295Z,0.3165,126.2911,26,6.2,mww,,30,1.166,1.24,us,us7000e9bi,2022-08-09T05:19:26.929Z,"132 km WSW of Ternate, Indonesia",earthquake,6,1.8,0.05,38,reviewed,us,us
+2021-05-23T02:02:08.018Z,4.9536,127.5262,83,5.5,mww,,31,2.858,0.9,us,us7000e5eu,2021-07-31T22:08:43.040Z,"215 km SE of Pondaguitan, Philippines",earthquake,7.5,1.9,0.058,29,reviewed,us,us
+2021-05-21T12:09:22.756Z,-8.4206,112.332,106,5.8,mww,,23,1.801,0.65,us,us7000e50p,2022-02-06T10:53:20.596Z,"33 km SSW of Sumberpucung, Indonesia",earthquake,3.6,1.9,0.062,25,reviewed,us,us
+2021-05-14T06:33:07.879Z,0.1364,96.6442,11,6.7,mww,,37,1.487,0.69,us,us7000e2zt,2022-08-09T05:03:30.990Z,"260 km S of Sinabang, Indonesia",earthquake,7.7,1.8,0.048,42,reviewed,us,us
+2021-05-12T18:20:27.994Z,3.9581,128.6424,47.56,5.5,mww,,38,3.412,0.81,us,us7000e2k1,2021-07-23T18:08:38.040Z,"256 km NNE of Tobelo, Indonesia",earthquake,7.1,4.8,0.073,18,reviewed,us,us
+2021-05-05T01:24:36.225Z,-1.9554,99.7862,30,5.7,mww,,18,3.92,0.83,us,us7000e07p,2021-07-10T20:15:27.040Z,"127 km SSW of Padang, Indonesia",earthquake,7.3,1.8,0.062,25,reviewed,us,us
+2021-05-02T17:46:41.047Z,-2.3244,99.79,21,5.5,mww,,46,2.914,1.09,us,us7000dziv,2021-07-10T20:15:02.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,7.4,1.8,0.066,22,reviewed,us,us
+2021-04-19T23:58:22.503Z,0.1831,96.5601,9,6.1,mww,,28,1.506,0.97,us,us6000e30x,2021-07-03T16:48:34.040Z,"254 km S of Sinabang, Indonesia",earthquake,6.9,1.6,0.039,64,reviewed,us,us
+2021-04-16T20:55:11.524Z,3.5769,126.7347,35,5.4,mww,,32,2.857,0.83,us,us6000e280,2021-07-03T16:47:44.040Z,"246 km SE of Sarangani, Philippines",earthquake,5.8,1.8,0.062,25,reviewed,us,us
+2021-04-16T03:42:05.195Z,-10.2439,116.9849,19.31,5.4,mww,,46,3.304,1.29,us,us6000e1zp,2021-07-03T16:47:37.040Z,"187 km SSE of Praya, Indonesia",earthquake,7.3,3.2,0.075,17,reviewed,us,us
+2021-04-15T10:36:22.132Z,-10.4175,117.0405,19,5.4,mww,,46,3.444,1.31,us,us6000e1rc,2021-06-19T21:25:43.040Z,"207 km SSE of Praya, Indonesia",earthquake,6.7,1.6,0.058,29,reviewed,us,us
+2021-04-14T10:55:14.687Z,0.1975,96.6432,8.99,5.6,mww,,44,1.441,0.55,us,us6000e1g3,2021-06-19T21:25:35.040Z,"254 km S of Sinabang, Indonesia",earthquake,5.3,2.6,0.065,23,reviewed,us,us
+2021-04-10T09:30:43.306Z,4.1322,124.6443,300,6.1,mww,,19,3.062,0.98,us,us6000e0k5,2021-06-19T21:24:51.040Z,"167 km SSW of Sarangani, Philippines",earthquake,7.2,1.9,0.036,73,reviewed,us,us
+2021-04-10T07:00:15.485Z,-8.5707,112.5054,67,6,mww,,21,1.631,0.83,us,us6000e0iy,2022-11-30T07:26:46.786Z,"45 km S of Sumberpucung, Indonesia",earthquake,7.3,1.9,0.066,22,reviewed,us,us
+2021-04-03T18:42:01.078Z,-5.1251,128.1558,326,5.9,mww,,10,4.22,0.91,us,us6000dysl,2021-06-12T21:36:54.040Z,"158 km S of Ambon, Indonesia",earthquake,6.4,1.8,0.039,62,reviewed,us,us
+2021-04-01T10:12:24.572Z,3.6042,126.7058,40.27,5.4,mb,,53,2.89,1.06,us,us6000dy67,2021-06-08T17:59:34.040Z,"242 km SE of Sarangani, Philippines",earthquake,7.1,4.7,0.042,192,reviewed,us,us
+2021-03-20T15:02:30.777Z,0.9715,126.9274,27.09,5.4,mww,,60,0.482,0.84,us,us7000dl8h,2021-06-02T15:24:08.040Z,"54 km WNW of Ternate, Indonesia",earthquake,2.8,4.6,0.098,10,reviewed,us,us
+2021-03-12T01:16:16.997Z,-4.6982,138.3708,12,5.5,mww,,26,6.358,1,us,us7000dia5,2021-05-26T22:06:03.040Z,"Papua, Indonesia",earthquake,8.2,1.8,0.075,17,reviewed,us,us
+2021-03-08T12:56:34.253Z,-4.4209,101.0083,10,5,mww,,99,1.942,0.67,us,us7000dh3d,2021-05-21T19:48:29.040Z,"155 km WSW of Bengkulu, Indonesia",earthquake,6.7,1.7,0.093,11,reviewed,us,us
+2021-03-05T07:32:55.148Z,-1.7567,99.2329,25,5.6,mww,,135,2.746,0.71,us,us7000dfw2,2021-05-21T19:46:40.040Z,"153 km SW of Padang, Indonesia",earthquake,6.6,1.9,0.098,10,reviewed,us,us
+2021-02-22T19:22:11.484Z,1.358,121.9096,25,5.8,mww,,37,1.154,1,us,us6000dk70,2021-05-04T14:16:23.040Z,"157 km NW of Gorontalo, Indonesia",earthquake,3.5,1.8,0.059,28,reviewed,us,us
+2021-02-16T19:09:40.907Z,-2.9033,139.2142,46.02,5.3,mww,,16,6.956,0.66,us,usd000eesi,2021-04-23T21:04:48.040Z,"161 km WSW of Abepura, Indonesia",earthquake,7.5,4.5,0.093,11,reviewed,us,us
+2021-02-10T12:52:27.224Z,-5.6856,101.6495,10,6.3,mww,,29,1.851,0.5,us,us6000dg70,2021-09-08T06:07:56.801Z,"219 km SSW of Bengkulu, Indonesia",earthquake,6.7,1.8,0.037,69,reviewed,us,us
+2021-02-08T00:00:40.820Z,5.688,127.1064,35.23,5.7,mww,,34,2.046,1.08,us,us6000dfgj,2022-08-09T02:45:24.529Z,"126 km SE of Pondaguitan, Philippines",earthquake,6.2,3.9,0.089,12,reviewed,us,us
+2021-01-30T10:52:31.473Z,-4.5295,102.5048,54.9,4.9,mww,,31,0.479,0.57,us,us6000dd7l,2021-04-16T19:02:28.040Z,"84 km SSE of Bengkulu, Indonesia",earthquake,6.7,4.5,0.086,13,reviewed,us,us
+2021-01-21T12:23:04.255Z,4.9931,127.5145,80,7,mww,,15,2.821,0.77,us,us7000d20e,2021-05-14T10:05:39.314Z,"211 km SE of Pondaguitan, Philippines",earthquake,6.3,1.9,0.061,26,reviewed,us,us
+2021-01-19T05:01:03.820Z,-7.3486,125.2798,428.11,5.4,mww,,22,2.592,0.82,us,us7000d1a0,2021-03-27T21:05:26.040Z,"137 km N of Likisá, Timor Leste",earthquake,8.9,5.7,0.098,10,reviewed,us,us
+2021-01-14T18:28:18.093Z,-2.9717,118.8899,18,6.2,mww,,28,2.203,1.12,us,us7000d030,2022-08-09T02:26:12.466Z,"32 km S of Mamuju, Indonesia",earthquake,3.5,1.7,0.066,22,reviewed,us,us
+2021-01-14T06:35:50.028Z,-2.9809,118.894,18,5.7,mww,,33,2.193,0.83,us,us6000d882,2021-12-09T06:52:54.236Z,"33 km S of Mamuju, Indonesia",earthquake,5.8,1.7,0.053,34,reviewed,us,us
+2021-01-12T18:17:36.970Z,-3.0604,136.8876,31,5.9,mww,,14,3.85,0.79,us,us6000d7tq,2021-03-20T21:24:52.040Z,"157 km ENE of Nabire, Indonesia",earthquake,6.3,1.8,0.075,17,reviewed,us,us
+2021-01-11T01:20:38.218Z,-7.2529,120.4325,613.25,5.6,mww,,21,2.254,1.07,us,us6000d7c5,2021-03-20T21:23:54.040Z,"150 km NNE of Labuan Bajo, Indonesia",earthquake,8,3.3,0.052,35,reviewed,us,us
+2021-01-06T20:59:34.315Z,0.0658,122.9487,148,6.1,mww,,13,1.114,1.23,us,us6000d69r,2021-03-13T22:59:38.040Z,"53 km SSW of Gorontalo, Indonesia",earthquake,6.7,1.8,0.035,78,reviewed,us,us
+2021-01-06T17:28:35.120Z,-4.3366,102.6881,58.04,5.5,mww,,27,0.267,1.02,us,us6000d672,2021-03-13T22:59:36.040Z,"70 km WSW of Pagar Alam, Indonesia",earthquake,6.1,3.4,0.078,16,reviewed,us,us
+2020-12-28T07:31:11.352Z,-0.1917,124.5061,51.77,5.1,mww,,37,1.929,0.72,us,us6000d3ln,2021-03-06T23:19:49.040Z,"170 km S of Tomohon, Indonesia",earthquake,6,4.2,0.098,10,reviewed,us,us
+2020-12-15T23:21:57.807Z,5.1789,125.4212,14,6.1,mww,,27,1.884,1.08,us,us7000crdx,2022-03-10T05:50:10.091Z,"25 km S of Sarangani, Philippines",earthquake,7.1,1.7,0.054,33,reviewed,us,us
+2020-11-17T01:44:11.421Z,-2.6706,99.3227,19,6,mww,,23,3.436,0.58,us,us7000cfxq,2021-12-03T12:25:50.449Z,"222 km SSW of Padang, Indonesia",earthquake,7.2,1.7,0.051,37,reviewed,us,us
+2020-11-01T03:43:20.342Z,-7.0719,129.2407,182,5.7,mww,,14,2.232,1.08,us,us7000c8va,2021-01-18T23:01:55.040Z,"294 km ENE of Lospalos, Timor Leste",earthquake,2.6,1.8,0.049,40,reviewed,us,us
+2020-10-27T19:43:52.656Z,-2.2318,119.079,22,5.4,mww,,18,2.443,1.03,us,us7000c6e1,2022-03-10T05:45:04.716Z,"54 km NNE of Mamuju, Indonesia",earthquake,4.9,1.8,0.065,23,reviewed,us,us
+2020-10-25T00:56:45.775Z,-7.9934,107.9821,43,5.4,mww,,26,0.621,0.93,us,us6000cctq,2022-03-10T05:44:23.533Z,"72 km SSW of Kawalu, Indonesia",earthquake,6.9,1.8,0.073,18,reviewed,us,us
+2020-10-19T07:47:21.835Z,-3.3848,100.3604,17.03,5.5,mww,,29,2.764,0.67,us,us6000c9cs,2022-03-10T05:43:02.545Z,"186 km SW of Sungai Penuh, Indonesia",earthquake,6.4,3.4,0.078,16,reviewed,us,us
+2020-10-19T07:31:30.626Z,-3.3684,100.2706,20,5.6,mww,,31,2.854,0.64,us,us6000c9ci,2022-03-10T05:42:43.778Z,"191 km SW of Sungai Penuh, Indonesia",earthquake,6.1,1.8,0.058,29,reviewed,us,us
+2020-10-15T09:41:16.989Z,-3.1911,100.3854,19,5.2,mww,,44,2.815,0.94,us,us6000c8hc,2020-12-29T23:07:23.040Z,"168 km SW of Sungai Penuh, Indonesia",earthquake,6.9,1.7,0.065,23,reviewed,us,us
+2020-10-09T02:57:20.747Z,-6.0429,122.5845,10,5.4,mww,,44,2.598,1.17,us,us6000c6xe,2020-12-19T17:22:40.040Z,"122 km S of Katabu, Indonesia",earthquake,6.4,1.7,0.069,20,reviewed,us,us
+2020-09-17T10:32:25.906Z,-6.7598,129.3659,185,5.5,mww,,18,2.269,1.09,us,us7000bpbx,2020-11-28T21:31:48.040Z,"Banda Sea",earthquake,7.2,1.9,0.078,16,reviewed,us,us
+2020-09-09T07:18:40.291Z,4.1773,126.6447,17,5.7,mww,,32,3.062,1.17,us,us7000bk82,2022-03-10T05:39:54.513Z,"188 km SE of Sarangani, Philippines",earthquake,6.8,1.7,0.089,12,reviewed,us,us
+2020-09-09T03:41:14.937Z,4.177,126.6843,10,5.4,mww,,39,3.077,0.95,us,us7000bk6b,2020-11-21T20:10:33.040Z,"191 km SE of Sarangani, Philippines",earthquake,6.8,1.7,0.08,15,reviewed,us,us
+2020-09-08T00:45:20.853Z,-4.8713,129.7548,172,5.9,mww,,13,3.154,0.78,us,us7000bjgb,2020-11-17T19:44:53.040Z,"193 km SSE of Amahai, Indonesia",earthquake,5.3,1.8,0.098,10,reviewed,us,us
+2020-09-06T00:21:10.820Z,1.6686,126.5621,30,5.9,mww,,20,1.2,0.89,us,us7000bipw,2020-11-17T19:44:42.040Z,"133 km NW of Ternate, Indonesia",earthquake,5.4,1.7,0.073,18,reviewed,us,us
+2020-09-02T23:25:37.323Z,-5.4215,140.3495,10,4.9,mww,,23,7.763,0.92,us,us7000bgxs,2020-11-17T19:44:24.040Z,"129 km NW of Kiunga, Papua New Guinea",earthquake,7.4,1.7,0.098,10,reviewed,us,us
+2020-08-22T00:39:35.576Z,-4.0808,100.9938,21,5.5,mww,,30,1.976,0.8,us,us6000biub,2020-10-31T19:06:15.040Z,"144 km WSW of Bengkulu, Indonesia",earthquake,6.5,1.7,0.073,18,reviewed,us,us
+2020-08-21T04:09:51.930Z,-6.71,123.4649,624,6.9,mww,,20,2.267,1.31,us,us6000bi4p,2020-10-31T19:06:13.040Z,"222 km SSE of Katabu, Indonesia",earthquake,8.8,1.9,0.052,36,reviewed,us,us
+2020-08-18T22:29:24.731Z,-4.2069,101.2411,26,6.9,mww,,25,1.716,0.81,us,us6000bgvu,2021-11-26T12:23:10.304Z,"122 km WSW of Bengkulu, Indonesia",earthquake,6.6,1.8,0.033,86,reviewed,us,us
+2020-08-18T22:23:59.497Z,-4.3217,101.1347,22,6.8,mww,,34,1.816,0.91,us,us6000bgvl,2020-10-24T20:09:05.040Z,"138 km WSW of Bengkulu, Indonesia",earthquake,7.3,1.8,0.063,24,reviewed,us,us
+2020-08-08T10:45:49.201Z,-9.7772,118.992,10,5.3,mww,,46,3.399,0.76,us,us6000bb2z,2020-10-21T22:03:58.040Z,"140 km W of Waingapu, Indonesia",earthquake,7.5,1.9,0.075,17,reviewed,us,us
+2020-08-07T03:00:39.724Z,-3.8635,126.2062,10,5.3,mww,,21,4.43,1.25,us,us6000baeu,2020-10-21T22:03:55.040Z,"220 km W of Ambon, Indonesia",earthquake,6.4,1.7,0.093,11,reviewed,us,us
+2020-08-05T08:27:12.019Z,-9.6826,119.1179,10,5.1,mww,,34,3.251,1.32,us,us6000b9kc,2020-10-21T22:03:52.040Z,"125 km W of Waingapu, Indonesia",earthquake,6.7,1.7,0.089,12,reviewed,us,us
+2020-07-19T02:15:13.337Z,-10.903,93.8681,10,5.4,mww,,45,3.176,1.39,us,us7000ar27,2020-09-26T16:58:37.040Z,"South Indian Ocean",earthquake,7.5,1.7,0.075,17,reviewed,us,us
+2020-07-14T23:33:58.152Z,-7.2022,120.4556,584.48,5.7,mww,,34,2.268,1.01,us,us7000anpp,2020-09-19T20:58:23.040Z,"155 km N of Ruteng, Indonesia",earthquake,9.4,5.7,0.049,40,reviewed,us,us
+2020-07-06T22:54:47.538Z,-5.6023,110.6893,533.76,6.6,mww,,14,1.458,1.16,us,us7000aj3w,2020-09-11T22:14:22.040Z,"Java Sea",earthquake,8.7,2.7,0.056,31,reviewed,us,us
+2020-06-23T07:43:29.219Z,0.0368,123.7866,109,6,mww,,22,1.475,0.9,us,us6000ah1z,2020-08-30T00:01:07.040Z,"97 km SE of Gorontalo, Indonesia",earthquake,5.7,1.9,0.049,40,reviewed,us,us
+2020-06-09T04:56:10.343Z,-4.2241,126.3437,10,5.7,mww,,27,4.766,0.84,us,us6000a89s,2020-08-18T17:59:09.040Z,"212 km WSW of Ambon, Indonesia",earthquake,6.2,1.8,0.068,21,reviewed,us,us
+2020-06-04T08:49:40.397Z,2.911,128.248,112.86,6.4,mww,,20,2.3,0.86,us,us6000a5r3,2022-03-10T05:20:20.096Z,"133 km NNE of Tobelo, Indonesia",earthquake,6.4,4.7,0.055,32,reviewed,us,us
+2020-06-03T15:54:04.610Z,-7.0058,116.9276,639.88,5.7,mww,,24,3.111,1.02,us,usd000crm9,2020-08-18T17:58:45.040Z,"167 km NNW of Pototano, Indonesia",earthquake,7.7,2.8,0.056,31,reviewed,us,us
+2020-05-30T13:06:24.005Z,4.071,126.5197,28.61,5.6,mww,,46,3.122,0.84,us,us6000a2n5,2022-03-10T05:18:43.739Z,"188 km SE of Sarangani, Philippines",earthquake,6.3,3.2,0.054,33,reviewed,us,us
+2020-05-11T01:06:18.743Z,-6.0613,129.9115,10,5.7,mww,,15,2.353,0.92,us,us70009dvh,2020-07-29T22:14:29.040Z,"Banda Sea",earthquake,5.6,1.5,0.061,26,reviewed,us,us
+2020-05-06T13:53:55.940Z,-6.7761,129.7852,96,6.8,mww,,16,1.921,0.76,us,us70009b14,2022-03-10T05:15:15.764Z,"Banda Sea",earthquake,6.4,1.9,0.065,23,reviewed,us,us
+2020-04-15T21:03:38.115Z,1.1073,126.6767,41.39,5.7,mww,,24,0.766,0.78,us,us70008x2q,2020-07-09T14:31:08.040Z,"86 km WNW of Ternate, Indonesia",earthquake,5.8,4.4,0.066,22,reviewed,us,us
+2020-04-05T18:37:10.876Z,1.395,126.4381,42,6,mww,,31,1.115,1.23,us,us70008peg,2020-06-21T00:55:06.040Z,"124 km WNW of Ternate, Indonesia",earthquake,6.6,1.9,0.06,27,reviewed,us,us
+2020-04-02T02:13:11.964Z,-7.9349,125.7018,16.19,5.5,mww,,27,2.298,0.95,us,us70008l5g,2022-03-10T05:12:01.336Z,"65 km N of Metinaro, Timor Leste",earthquake,6.6,3.2,0.066,22,reviewed,us,us
+2020-03-28T15:43:17.479Z,-1.7144,120.1775,10,5.9,mww,,36,2.678,1.19,us,us70008hvb,2022-08-08T21:35:39.026Z,"73 km WSW of Poso, Indonesia",earthquake,6,1.8,0.047,43,reviewed,us,us
+2020-03-27T14:32:48.194Z,0.1747,133.5831,10,5.6,mww,,62,3.35,0.96,us,us70008h8n,2020-06-13T18:44:41.040Z,"126 km NNW of Manokwari, Indonesia",earthquake,8.7,1.8,0.073,18,reviewed,us,us
+2020-03-26T21:36:42.248Z,-2.9507,139.1131,38,5.7,mww,,13,6.855,0.8,us,us70008gtk,2020-06-13T18:44:41.040Z,"173 km WSW of Abepura, Indonesia",earthquake,7.2,1.8,0.071,19,reviewed,us,us
+2020-03-26T15:38:04.089Z,5.5669,125.0521,59,6.1,mww,,11,1.582,1.34,us,us70008ghw,2022-03-10T05:10:32.864Z,"27 km SW of Burias, Philippines",earthquake,4.1,1.7,0.038,67,reviewed,us,us
+2020-03-18T17:45:39.299Z,-11.0521,115.1378,20.68,6.2,mww,,24,2.743,1.19,us,us60008hzl,2020-06-06T20:53:49.040Z,"249 km S of Nusa Dua, Indonesia",earthquake,7.1,3.1,0.038,65,reviewed,us,us
+2020-03-18T03:13:29.659Z,3.0199,128.0385,101.76,5.4,mww,,33,2.331,0.75,us,us60008hkf,2020-06-06T20:53:45.040Z,"142 km N of Tobelo, Indonesia",earthquake,5.6,4.7,0.117,7,reviewed,us,us
+2020-03-10T14:06:26.665Z,-5.837,103.0187,26.18,5.7,mww,,48,1.468,0.78,us,us60008d51,2020-05-23T22:03:30.040Z,"201 km S of Pagar Alam, Indonesia",earthquake,7.6,3.9,0.062,25,reviewed,us,us
+2020-02-27T19:13:02.974Z,3.7953,125.7576,122,5.5,mww,,32,3.257,1.32,us,us600085g3,2020-05-19T22:14:02.040Z,"180 km S of Sarangani, Philippines",earthquake,7.4,1.8,0.058,29,reviewed,us,us
+2020-02-26T07:33:12.952Z,-7.4887,131.1196,54,6,mww,,21,0.521,1.05,us,us600084gu,2022-03-10T05:07:25.025Z,"273 km SW of Tual, Indonesia",earthquake,6.3,1.8,0.057,30,reviewed,us,us
+2020-02-20T20:24:28.512Z,-6.7432,129.6245,163.21,5.4,mww,,24,2.067,1.01,us,us70007tt3,2020-05-09T21:41:04.040Z,"Banda Sea",earthquake,6.8,4,0.047,44,reviewed,us,us
+2020-02-20T09:54:07.296Z,5.5936,125.5446,201.06,5.4,mww,,43,1.466,1.07,us,us70007th0,2020-05-09T21:41:03.040Z,"11 km SE of Sugal, Philippines",earthquake,4.1,3.8,0.053,34,reviewed,us,us
+2020-02-15T23:00:27.251Z,-3.3456,131.4839,10,5.6,mww,,14,0.873,1.01,us,us70007r1x,2020-05-02T22:09:56.040Z,"273 km S of Sorong, Indonesia",earthquake,4.6,1.6,0.051,37,reviewed,us,us
+2020-02-15T15:36:44.859Z,1.6105,126.6462,35,5.4,mww,,85,1.101,1.26,us,us70007qwf,2020-05-02T22:09:54.040Z,"122 km NW of Ternate, Indonesia",earthquake,5.8,1.9,0.071,19,reviewed,us,us
+2020-02-08T06:36:44.095Z,-2.8766,129.9354,10,5.6,mww,,61,2.311,0.69,us,us70007lf3,2022-03-10T05:05:25.928Z,"123 km ENE of Amahai, Indonesia",earthquake,6.1,1.2,0.062,25,reviewed,us,us
+2020-02-06T13:40:05.791Z,5.4543,126.5692,19,6,mww,,44,1.882,1.2,us,us70007jwn,2021-05-16T02:06:35.645Z,"109 km SSE of Pondaguitan, Philippines",earthquake,5.2,1.7,0.046,45,reviewed,us,us
+2020-02-05T18:12:37.734Z,-6.0817,113.0778,592.42,6.2,mww,,31,5.479,1.04,us,us70007j6z,2020-04-25T22:17:58.040Z,"113 km NNE of Bangkalan, Indonesia",earthquake,8.3,4.2,0.041,58,reviewed,us,us
+2020-01-29T23:46:56.062Z,0.7136,126.3292,27.01,5.8,mww,,25,1.039,0.88,us,us60007jmj,2020-04-18T22:09:54.040Z,"117 km W of Ternate, Indonesia",earthquake,6.1,3.1,0.052,36,reviewed,us,us
+2020-01-19T16:58:20.002Z,-0.1042,123.8025,121.72,6.1,mww,,22,1.389,0.78,us,us60007arp,2020-04-08T19:39:40.040Z,"108 km SE of Gorontalo, Indonesia",earthquake,6.8,3.6,0.05,39,reviewed,us,us
+2020-01-18T16:38:14.301Z,-2.8405,139.3363,44,6,mww,,36,7.079,1.02,us,us60007a3h,2022-02-04T19:30:01.193Z,"146 km W of Abepura, Indonesia",earthquake,4.1,1.9,0.053,34,reviewed,us,us
+2020-01-15T07:55:30.169Z,-10.3733,124.0857,10,5.7,mww,,34,0.447,1.42,us,us7000702n,2022-03-10T04:59:57.531Z,"Timor region, Indonesia",earthquake,5.7,1.7,0.063,24,reviewed,us,us
+2020-01-07T06:05:19.759Z,2.3481,96.3575,17,6.3,mww,,33,1.599,0.97,us,us70006vkq,2022-03-10T04:57:43.604Z,"14 km S of Sinabang, Indonesia",earthquake,4.3,1.7,0.043,53,reviewed,us,us
+2020-01-02T11:25:04.368Z,-5.7527,124.976,10,5.6,mww,,23,3.947,0.97,us,us70006thw,2020-03-21T17:13:03.040Z,"287 km ESE of Katabu, Indonesia",earthquake,5.9,1.7,0.054,33,reviewed,us,us
+2019-12-29T09:12:15.869Z,4.6867,125.3963,23.96,5.4,mww,,73,2.374,0.73,us,us70006s54,2020-03-14T22:23:36.040Z,"79 km S of Sarangani, Philippines",earthquake,5.9,4.9,0.055,32,reviewed,us,us
+2019-12-16T14:49:16.108Z,-2.9702,100.9448,40.28,5.6,mww,,95,2.436,0.73,us,us60006s6p,2020-03-04T21:27:10.040Z,"112 km SSW of Sungai Penuh, Indonesia",earthquake,7.4,4.3,0.062,25,reviewed,us,us
+2019-12-15T14:09:11.335Z,1.743,127.2823,110.77,5.4,mww,,44,0.968,0.83,us,us60006rsm,2020-03-04T21:27:04.040Z,"80 km W of Tobelo, Indonesia",earthquake,5.4,6.1,0.06,27,reviewed,us,us
+2019-12-05T12:24:44.024Z,5.3809,126.754,44,5.6,mww,,36,2.044,0.85,us,us60006mdf,2022-08-08T17:23:07.615Z,"125 km SSE of Pondaguitan, Philippines",earthquake,7.1,1.9,0.065,23,reviewed,us,us
+2019-11-23T12:11:15.564Z,1.6436,132.8148,5,6.2,mww,,25,4.567,0.94,us,us70006c6w,2020-02-14T22:02:14.040Z,"241 km SE of Tobi Village, Palau",earthquake,6.5,1.7,0.042,54,reviewed,us,us
+2019-11-16T10:19:13.323Z,1.5673,126.3349,24,5.9,mww,,29,1.299,0.81,us,us700068sr,2020-02-07T20:21:43.040Z,"144 km NW of Ternate, Indonesia",earthquake,6.5,1.4,0.047,43,reviewed,us,us
+2019-11-15T01:22:15.753Z,1.6678,126.4271,35,5.4,mb,,61,1.294,0.65,us,us70006bmu,2020-02-07T20:21:17.040Z,"144 km NW of Ternate, Indonesia",earthquake,8.8,2,0.221,7,reviewed,us,us
+2019-11-15T01:17:38.332Z,1.6158,126.3469,35,5.9,mww,,22,1.32,1.33,us,us60006bu3,2020-02-07T20:21:16.040Z,"147 km NW of Ternate, Indonesia",earthquake,6.6,1.8,0.052,36,reviewed,us,us
+2019-11-14T23:17:20.204Z,1.5819,126.3309,24.57,5.5,mww,,27,1.311,0.75,us,us60006bse,2020-02-07T20:21:13.040Z,"146 km NW of Ternate, Indonesia",earthquake,6.2,3.2,0.078,16,reviewed,us,us
+2019-11-14T22:15:09.148Z,1.6227,126.466,20.16,5.4,mb,,29,1.235,0.8,us,us60006bqu,2020-02-07T20:21:10.040Z,"137 km NW of Ternate, Indonesia",earthquake,5.9,3.2,0.04,212,reviewed,us,us
+2019-11-14T21:37:27.058Z,1.4633,126.3889,24.22,5.4,mww,,48,1.194,0.67,us,us60006bq8,2020-02-07T20:21:09.040Z,"Molucca Sea",earthquake,6.7,3.8,0.127,6,reviewed,us,us
+2019-11-14T21:12:54.753Z,1.5361,126.4161,23,6,mww,,18,1.216,1.42,us,us60006bpw,2020-02-07T20:21:07.040Z,"135 km NW of Ternate, Indonesia",earthquake,6.6,1.7,0.061,26,reviewed,us,us
+2019-11-14T20:19:45.545Z,1.7832,126.4513,20.04,5.3,mww,,58,1.359,1.07,us,us60006bp3,2020-02-07T20:21:05.040Z,"151 km NW of Ternate, Indonesia",earthquake,7.5,4,0.127,6,reviewed,us,us
+2019-11-14T18:45:39.058Z,1.4326,126.3608,27.23,5.8,mb,,29,1.201,0.83,us,us60006bmg,2020-02-07T20:21:01.040Z,"134 km WNW of Ternate, Indonesia",earthquake,6.8,3.9,0.034,321,reviewed,us,us
+2019-11-14T16:26:10.581Z,1.6751,126.4154,24.67,5.3,mb,,103,1.307,0.64,us,us70006b4e,2020-02-07T20:20:56.040Z,"145 km NW of Ternate, Indonesia",earthquake,7,5.1,0.116,27,reviewed,us,us
+2019-11-14T16:17:40.578Z,1.6213,126.4156,33,7.1,mww,,11,1.271,1.15,us,us60006bjl,2020-10-03T05:38:51.266Z,"141 km NW of Ternate, Indonesia",earthquake,6.1,1.7,0.036,75,reviewed,us,us
+2019-11-01T02:33:58.542Z,3.2144,126.9855,28.09,5.6,mww,,45,2.456,1.16,us,us700061vl,2020-01-18T20:00:51.040Z,"199 km NW of Tobelo, Indonesia",earthquake,6.8,3.6,0.089,12,reviewed,us,us
+2019-10-30T17:29:00.841Z,1.4688,126.3864,25.52,5.4,mww,,47,1.2,1.02,us,us70006194,2020-01-18T20:00:47.040Z,"134 km NW of Ternate, Indonesia",earthquake,5.5,2.3,0.052,35,reviewed,us,us
+2019-10-24T13:38:16.637Z,1.1847,124.2015,241,5.6,mww,,35,2.633,1.06,us,us6000624h,2020-01-11T21:26:34.040Z,"68 km WSW of Tomohon, Indonesia",earthquake,7,1.9,0.044,49,reviewed,us,us
+2019-10-23T03:50:44.096Z,-2.6728,138.2989,10,5.4,mww,,31,2.408,0.71,us,us70005xic,2020-01-11T21:26:26.040Z,"259 km W of Abepura, Indonesia",earthquake,3.9,1.8,0.078,16,reviewed,us,us
+2019-10-22T22:11:07.700Z,-2.379,99.8617,18.13,5.1,mww,,17,2.933,0.78,us,us70005xe1,2020-01-11T21:26:25.040Z,"167 km SSW of Padang, Indonesia",earthquake,7.2,3.1,0.103,9,reviewed,us,us
+2019-10-22T19:15:28.893Z,-2.8648,138.3001,10,5.5,mww,,26,2.426,0.67,us,us70005xa1,2020-07-10T17:51:36.826Z,"261 km W of Abepura, Indonesia",earthquake,6.9,1.8,0.071,19,reviewed,us,us
+2019-10-21T23:49:04.493Z,-2.638,99.5867,10,5.2,mww,,31,3.773,0.95,us,us70005wzt,2020-01-03T16:09:47.040Z,"205 km SSW of Padang, Indonesia",earthquake,6.7,1.7,0.089,12,reviewed,us,us
+2019-10-14T22:23:54.247Z,-4.482,101.1948,19,5.9,mww,,33,1.759,0.77,us,us70005u76,2019-12-28T20:45:49.040Z,"140 km WSW of Bengkulu, Indonesia",earthquake,6,1.8,0.073,18,reviewed,us,us
+2019-10-03T14:33:04.087Z,-2.6511,138.3412,13.26,5.6,mww,,19,6.091,0.87,us,us70005q83,2020-07-10T17:49:51.679Z,"254 km W of Abepura, Indonesia",earthquake,7.8,3.7,0.061,26,reviewed,us,us
+2019-09-29T02:02:51.883Z,5.6756,126.5481,73,6.2,mww,,16,1.686,1.33,us,us70005nbb,2019-12-20T19:03:35.040Z,"86 km SSE of Pondaguitan, Philippines",earthquake,7.2,1.8,0.036,73,reviewed,us,us
+2019-09-26T00:39:59.361Z,-3.6266,128.4155,10,5.5,mww,,15,3.891,1.08,us,us70005lg7,2020-07-10T17:48:29.077Z,"26 km ENE of Ambon, Indonesia",earthquake,6.1,1.6,0.075,17,reviewed,us,us
+2019-09-21T19:53:13.441Z,-6.4584,130.4262,65,5.9,mww,,10,1.744,0.92,us,us60005lts,2019-12-10T17:27:01.040Z,"273 km WSW of Tual, Indonesia",earthquake,5.7,1.8,0.059,28,reviewed,us,us
+2019-09-19T07:32:58.793Z,-6.0534,111.8968,636.41,5.6,mb,,25,1.752,0.69,us,us60005kuc,2019-12-10T17:26:57.040Z,"86 km NE of Lasem, Indonesia",earthquake,9.9,6.7,0.066,82,reviewed,us,us
+2019-09-19T07:32:01.582Z,-6.0586,111.8877,617.56,5.9,mww,,19,1.742,0.87,us,us60005ku0,2019-12-10T17:26:57.040Z,"85 km NE of Lasem, Indonesia",earthquake,9.3,3.7,0.048,41,reviewed,us,us
+2019-09-19T07:06:33.291Z,-6.0708,111.8422,610,6.1,mww,,19,1.698,0.97,us,us60005kta,2019-12-10T17:26:57.040Z,"81 km NNE of Lasem, Indonesia",earthquake,8.8,2,0.038,66,reviewed,us,us
+2019-09-18T07:01:01.841Z,5.4093,126.4529,23.45,5.6,mww,,30,1.864,1.3,us,us70005hsp,2019-12-10T17:27:10.040Z,"106 km ESE of Caburan, Philippines",earthquake,6.1,2.6,0.055,32,reviewed,us,us
+2019-09-14T16:21:27.604Z,-0.9809,128.5368,4.45,5.8,mww,,37,2.097,0.85,us,us70005ge3,2020-07-10T17:47:59.737Z,"218 km SSE of Sofifi, Indonesia",earthquake,6.3,2.2,0.058,29,reviewed,us,us
+2019-09-10T23:32:23.782Z,4.0301,126.6816,27,5.6,mww,,27,3.212,1.16,us,us70005ej7,2020-07-10T17:47:49.247Z,"203 km SE of Sarangani, Philippines",earthquake,6.6,1.8,0.056,31,reviewed,us,us
+2019-08-10T12:01:33.461Z,-5.5803,129.5582,21.22,5.4,mww,,34,2.946,0.54,us,us600053dr,2019-10-29T20:33:54.040Z,"257 km SSE of Amahai, Indonesia",earthquake,5.2,4,0.061,26,reviewed,us,us
+2019-08-02T12:03:27.001Z,-7.2822,104.7907,49,6.9,mww,,23,2.839,0.76,us,us60004zhq,2022-01-06T18:14:01.620Z,"152 km SW of Labuan, Indonesia",earthquake,7,1.9,0.043,51,reviewed,us,us
+2019-07-22T10:06:57.887Z,-3.3218,131.048,16,5.4,mww,,41,1.264,1.01,us,us70004qew,2019-10-04T16:37:37.040Z,"236 km E of Amahai, Indonesia",earthquake,5.8,1.7,0.063,24,reviewed,us,us
+2019-07-16T00:18:36.961Z,-8.8208,114.487,80,5.7,mww,,19,0.48,1.42,us,us70004l29,2020-07-10T17:45:51.838Z,"46 km SSE of Muncar, Indonesia",earthquake,7.3,1.8,0.056,31,reviewed,us,us
+2019-07-14T10:26:58.098Z,-0.4773,127.8482,10,5.8,mww,,62,1.33,0.84,us,us70004k03,2020-07-10T17:45:21.238Z,"138 km SSE of Sofifi, Indonesia",earthquake,6.6,1.8,0.083,14,reviewed,us,us
+2019-07-14T09:43:46.015Z,-0.8042,127.7214,10,5.8,mww,,44,1.605,0.74,us,us70004jzf,2020-07-10T17:45:09.639Z,"171 km S of Sofifi, Indonesia",earthquake,6.9,1.8,0.089,12,reviewed,us,us
+2019-07-14T09:10:51.523Z,-0.5858,128.034,18.98,7.2,mww,,38,1.504,0.88,us,us70004jyv,2020-07-30T13:31:26.346Z,"155 km SSE of Sofifi, Indonesia",earthquake,7.3,3.4,0.049,40,reviewed,us,us
+2019-07-08T18:52:33.279Z,0.504,126.3042,28,5.9,mww,,43,1.095,0.77,us,us70004f0h,2019-09-26T14:31:01.040Z,"124 km WSW of Ternate, Indonesia",earthquake,6,1.8,0.047,43,reviewed,us,us
+2019-07-08T06:56:00.636Z,-2.5251,138.5058,35,5.1,mww,,25,6.262,0.64,us,us70004ejj,2019-09-26T14:30:58.040Z,"236 km W of Abepura, Indonesia",earthquake,7.5,1.9,0.089,12,reviewed,us,us
+2019-07-08T06:20:10.179Z,0.449,126.2508,10,5.6,mww,,26,1.16,0.73,us,us70004eiy,2019-09-26T14:30:58.040Z,"131 km WSW of Ternate, Indonesia",earthquake,7.1,1.7,0.069,20,reviewed,us,us
+2019-07-07T15:08:40.525Z,0.5126,126.1892,35,6.9,mww,,21,1.205,0.8,us,us70004dz3,2019-09-26T14:30:53.040Z,"136 km WSW of Ternate, Indonesia",earthquake,6.2,1.9,0.043,51,reviewed,us,us
+2019-06-24T17:35:13.641Z,-2.7418,138.4321,10,5.5,mww,,23,2.281,1.14,us,us600045bc,2020-07-10T17:31:12.139Z,"245 km W of Abepura, Indonesia",earthquake,6.5,1.7,0.061,26,reviewed,us,us
+2019-06-24T16:54:12.036Z,-2.6549,138.4072,20,5.5,mww,,37,2.299,0.69,us,us700049fa,2020-07-10T17:43:18.078Z,"247 km W of Abepura, Indonesia",earthquake,8.1,5.4,0.075,17,reviewed,us,us
+2019-06-24T16:53:19.971Z,-2.6836,138.4384,10,5.7,mb,,37,2.269,0.79,us,us600045am,2020-07-10T17:30:59.400Z,"244 km W of Abepura, Indonesia",earthquake,7.2,1.9,0.037,257,reviewed,us,us
+2019-06-24T04:47:08.607Z,-2.6194,138.5377,22.24,5.6,mb,,22,2.167,0.9,us,us6000453g,2020-07-10T17:30:45.406Z,"232 km W of Abepura, Indonesia",earthquake,7.3,1.3,0.032,338,reviewed,us,us
+2019-06-24T02:53:39.830Z,-6.4078,129.1692,212,7.3,mww,,16,2.629,1.08,us,us600044zz,2020-07-10T17:30:11.502Z,"Banda Sea",earthquake,5.1,1.8,0.045,48,reviewed,us,us
+2019-06-24T01:05:29.464Z,-2.7756,138.5675,28,6.1,mww,,19,2.15,1.1,us,us600044z4,2020-07-10T17:29:59.301Z,"230 km W of Abepura, Indonesia",earthquake,6.8,1.8,0.048,41,reviewed,us,us
+2019-06-19T17:24:48.803Z,-2.2656,138.461,10,6.3,mww,,58,2.255,0.88,us,us6000434e,2022-08-08T14:16:25.404Z,"244 km W of Abepura, Indonesia",earthquake,6.7,1.8,0.061,26,reviewed,us,us
+2019-06-17T05:43:30.501Z,-8.7248,123.0475,96.83,5.4,mww,,49,0.805,1.24,us,us600041lh,2019-09-06T14:25:16.040Z,"92 km E of Maumere, Indonesia",earthquake,6.5,4,0.062,25,reviewed,us,us
+2019-06-14T20:10:52.241Z,-5.8431,130.725,105,5.7,mww,,16,2.2,0.8,us,us600040xy,2019-09-06T14:25:06.040Z,"225 km W of Tual, Indonesia",earthquake,6,1.9,0.043,51,reviewed,us,us
+2019-06-10T16:59:18.526Z,-6.5763,131.8558,61,5.5,mww,,33,1.502,0.82,us,us70003xr9,2019-08-27T17:48:08.040Z,"144 km SW of Tual, Indonesia",earthquake,7,1.9,0.075,17,reviewed,us,us
+2019-06-09T09:32:25.075Z,-8.1979,108.9471,70.44,5.4,mww,,45,1.586,0.89,us,us70003xf0,2019-08-27T17:47:59.040Z,"70 km SSW of Kroya, Indonesia",earthquake,7.7,5.4,0.08,15,reviewed,us,us
+2019-06-03T06:04:35.642Z,0.3426,97.7429,10,5.2,mww,,26,0.969,0.84,us,us70003um9,2019-08-24T21:17:52.040Z,"192 km SW of Sibolga, Indonesia",earthquake,7.2,1.7,0.11,8,reviewed,us,us
+2019-06-03T05:57:09.503Z,0.378,97.7223,19,5.8,mww,,27,0.931,0.81,us,us70003um7,2020-07-10T17:42:11.386Z,"191 km SW of Sibolga, Indonesia",earthquake,6.9,1.7,0.052,35,reviewed,us,us
+2019-05-31T06:37:53.792Z,-7.218,117.5097,571.99,5.4,mww,,41,3.124,0.87,us,us70003tjb,2019-08-24T21:17:39.040Z,"132 km N of Pototano, Indonesia",earthquake,8.2,7.6,0.069,20,reviewed,us,us
+2019-05-18T01:51:29.831Z,-9.5083,108.5971,8,5.6,mww,,33,2.477,1.19,us,us70003mw2,2019-08-07T22:03:46.040Z,"219 km SSW of Kroya, Indonesia",earthquake,6.7,1.7,0.06,27,reviewed,us,us
+2019-05-04T21:02:10.594Z,1.9846,123.6614,327,5.7,mww,,29,3.006,1.14,us,us70003gse,2019-07-25T18:54:17.040Z,"143 km WNW of Manado, Indonesia",earthquake,7.3,1.8,0.041,57,reviewed,us,us
+2019-04-25T21:57:46.029Z,-1.9244,122.4903,10,5.4,mww,,21,0.92,0.65,us,us70003c7k,2019-07-13T18:42:40.040Z,"112 km SSW of Luwuk, Indonesia",earthquake,5.4,1.7,0.047,44,reviewed,us,us
+2019-04-12T12:12:12.954Z,-1.8533,122.5759,10,5.4,mb,,34,0.829,1.15,us,us700034y7,2019-06-20T19:03:24.040Z,"102 km SSW of Luwuk, Indonesia",earthquake,5.4,1.7,0.049,140,reviewed,us,us
+2019-04-12T11:45:36.591Z,-1.8614,122.6143,10,5.7,mb,,48,0.829,0.78,us,us700038kq,2020-07-10T17:39:05.917Z,"102 km S of Luwuk, Indonesia",earthquake,5.8,1.8,0.05,142,reviewed,us,us
+2019-04-12T11:40:49.363Z,-1.8146,122.5798,15.46,6.8,mww,,28,0.791,1.16,us,us700034xq,2020-07-10T17:38:26.662Z,"Sulawesi, Indonesia",earthquake,2,2.8,0.056,31,reviewed,us,us
+2019-04-06T21:55:01.660Z,-6.8285,125.0416,539,6.3,mww,,20,3.007,0.93,us,us2000kbi1,2019-06-19T23:26:40.987Z,"197 km N of Likisá, Timor Leste",earthquake,8.8,1.9,0.034,84,reviewed,us,us
+2019-03-24T04:37:35.918Z,1.6601,126.3955,45,6.1,mww,,30,1.312,1.38,us,us1000jkwi,2022-08-08T13:08:12.095Z,"146 km NW of Ternate, Indonesia",earthquake,5.8,1.9,0.043,53,reviewed,us,us
+2019-03-24T01:32:00.219Z,-1.8703,120.5238,10,5.5,mww,,45,2.393,1.31,us,us1000jkv5,2020-07-10T16:05:13.024Z,"58 km SSW of Poso, Indonesia",earthquake,5.9,1.7,0.05,38,reviewed,us,us
+2019-03-17T07:07:25.369Z,-8.4179,116.5208,10,5.6,mww,,41,2.343,0.83,us,us1000jhbv,2020-07-10T16:03:58.027Z,"18 km WNW of Labuan Lombok, Indonesia",earthquake,5.6,1.7,0.055,32,reviewed,us,us
+2019-03-11T16:34:28.920Z,1.1255,98.781,75.55,5.3,mww,,61,1.218,0.94,us,us1000jdlv,2022-08-08T12:56:12.908Z,"61 km WSW of Padangsidempuan, Indonesia",earthquake,5.7,4.8,0.075,17,reviewed,us,us
+2019-02-27T23:27:04.240Z,-1.3226,101.5784,10,5.4,mww,,25,1.724,0.89,us,us1000j8dg,2022-08-08T12:35:34.973Z,"83 km NNE of Sungai Penuh, Indonesia",earthquake,5.8,1.7,0.069,20,reviewed,us,us
+2019-02-20T00:10:38.760Z,0.7627,126.1896,28.33,5.5,mww,,31,1.177,1.09,us,us2000jkcy,2019-05-11T17:40:41.040Z,"133 km W of Ternate, Indonesia",earthquake,4.9,3.3,0.061,26,reviewed,us,us
+2019-02-18T19:30:22.900Z,-9.5093,112.8605,23,5.7,mww,,33,1.641,0.95,us,us2000jjm5,2019-05-01T22:01:03.040Z,"144 km S of Dampit, Indonesia",earthquake,6.9,1.8,0.058,29,reviewed,us,us
+2019-02-07T10:03:06.650Z,2.2963,128.7661,21.17,5.2,mww,,59,2.061,1.16,us,us2000jepg,2019-04-25T15:31:49.040Z,"105 km NE of Tobelo, Indonesia",earthquake,5.1,3.9,0.065,23,reviewed,us,us
+2019-02-07T04:15:30.040Z,1.4669,126.4203,40,5.7,mww,,22,1.171,0.84,us,us2000jekx,2019-04-25T15:31:48.040Z,"130 km NW of Ternate, Indonesia",earthquake,6.6,1.8,0.057,30,reviewed,us,us
+2019-02-04T19:29:54.350Z,-0.4203,98.0357,19,5.6,mww,,62,1.773,0.71,us,us2000jda7,2019-04-18T19:09:38.040Z,"233 km W of Pariaman, Indonesia",earthquake,4,1.8,0.062,25,reviewed,us,us
+2019-02-03T07:36:46.290Z,-3.2836,130.7595,10,5.4,mww,,26,1.53,0.93,us,us2000jcp0,2019-04-18T19:09:35.040Z,"204 km E of Amahai, Indonesia",earthquake,5.1,1.6,0.08,15,reviewed,us,us
+2019-02-02T11:01:38.730Z,-2.7308,100.3019,10,5.8,mb,,52,5.562,0.67,us,us2000jcdi,2020-07-10T17:24:37.219Z,"142 km WSW of Sungai Penuh, Indonesia",earthquake,3.1,1.8,0.054,127,reviewed,us,us
+2019-02-02T10:59:30.340Z,-2.8764,100.1326,18,5.9,mww,,29,3.179,0.61,us,us2000jccs,2022-08-08T11:58:57.322Z,"166 km WSW of Sungai Penuh, Indonesia",earthquake,6.8,1.7,0.068,21,reviewed,us,us
+2019-02-02T09:27:36.030Z,-2.8462,100.0743,20,6,mww,,38,3.245,0.72,us,us2000jcbz,2020-07-10T17:24:14.302Z,"170 km WSW of Sungai Penuh, Indonesia",earthquake,6.7,1.8,0.073,18,reviewed,us,us
+2019-02-02T09:03:09.840Z,-2.8248,100.0068,10,5.2,mww,,29,3.295,0.66,us,us2000jcbm,2019-04-18T19:09:31.040Z,"175 km WSW of Sungai Penuh, Indonesia",earthquake,6,1.7,0.075,17,reviewed,us,us
+2019-01-26T08:12:48.680Z,-5.4962,133.7648,10,5.9,mww,,19,2.973,0.85,us,us2000j94v,2021-10-20T17:34:59.112Z,"Kepulauan Kai, Indonesia",earthquake,6.6,1.8,0.044,50,reviewed,us,us
+2019-01-23T11:39:02.390Z,-10.2981,118.9231,24,5.6,mww,,51,3.663,0.81,us,us2000j7rv,2019-04-12T17:14:15.040Z,"163 km WSW of Waingapu, Indonesia",earthquake,6.7,1.8,0.06,27,reviewed,us,us
+2019-01-22T05:10:03.480Z,-10.4148,119.0165,24,6.3,mww,,32,3.635,1.33,us,us2000j73a,2019-04-12T17:13:49.040Z,"160 km WSW of Waingapu, Indonesia",earthquake,5.4,1.8,0.046,46,reviewed,us,us
+2019-01-21T23:59:23.860Z,-10.3278,119.1521,26,6,mww,,41,3.477,1.18,us,us2000j70q,2019-04-05T21:41:02.040Z,"142 km WSW of Waingapu, Indonesia",earthquake,6.2,1.8,0.039,64,reviewed,us,us
+2019-01-16T10:49:27.270Z,3.4827,128.6337,11,5.5,mww,,72,2.975,0.9,us,us2000j4gj,2019-04-05T21:40:58.040Z,"206 km NNE of Tobelo, Indonesia",earthquake,7.4,1.8,0.066,22,reviewed,us,us
+2019-01-15T20:03:20.260Z,5.8113,126.8985,61.83,5.7,mww,,39,1.811,1.04,us,us2000j47l,2022-08-08T11:34:04.635Z,"100 km SE of Pondaguitan, Philippines",earthquake,6.5,4.1,0.06,27,reviewed,us,us
+2019-01-07T14:11:52.010Z,2.442,126.781,39.88,5.2,mww,,34,1.759,1.11,us,us2000j137,2019-03-08T17:50:18.040Z,"157 km WNW of Tobelo, Indonesia",earthquake,4.1,4.7,0.08,15,reviewed,us,us
+2019-01-06T17:27:18.980Z,2.258,126.758,43.21,6.6,mww,,33,1.596,0.87,us,us2000j0uj,2022-02-28T06:18:53.845Z,"Molucca Sea",earthquake,6.7,3.6,0.038,68,reviewed,us,us
+2019-01-05T10:54:57.590Z,-0.8253,127.6071,14.3,5.4,mww,,85,1.604,0.72,us,us2000j0hh,2019-03-08T17:50:16.040Z,"172 km S of Sofifi, Indonesia",earthquake,6.9,4.3,0.063,24,reviewed,us,us
+2019-01-04T06:22:45.630Z,-6.5176,130.4073,127.9,5.6,mww,,29,1.703,0.77,us,us2000j076,2019-03-08T17:50:15.040Z,"277 km WSW of Tual, Indonesia",earthquake,5.9,4.4,0.051,37,reviewed,us,us
+2018-12-30T08:39:12.450Z,-2.677,102.349,166,5.7,mww,,18,1.778,0.9,us,us2000iz50,2022-05-03T19:43:11.333Z,"88 km NW of Lubuklinggau, Indonesia",earthquake,6.8,1.9,0.044,50,reviewed,us,us
+2018-12-29T03:39:09.740Z,5.8983,126.9209,60.21,7,mww,,21,1.769,1.45,us,us2000iyta,2022-05-03T19:43:03.314Z,"96 km ESE of Pondaguitan, Philippines",earthquake,6.1,3.2,0.038,67,reviewed,us,us
+2018-12-28T03:03:33.430Z,-1.4498,134.0858,41,5.8,mww,,23,2.345,1.06,us,us2000iyhj,2022-05-03T19:43:01.864Z,"64 km S of Manokwari, Indonesia",earthquake,7.1,1.8,0.052,35,reviewed,us,us
+2018-12-25T07:18:23.240Z,1.1186,126.4533,35,5.4,mww,,30,0.976,0.65,us,us2000ixds,2022-05-03T19:42:30.337Z,"109 km WNW of Ternate, Indonesia",earthquake,6.1,1.9,0.062,25,reviewed,us,us
+2018-12-16T09:42:37.200Z,-3.9226,140.2323,61.97,6.1,mww,,14,7.364,0.93,us,us2000iu2u,2022-05-03T19:41:55.194Z,"153 km SSW of Abepura, Indonesia",earthquake,3,3.8,0.045,48,reviewed,us,us
+2018-12-06T01:02:46.330Z,-8.3948,116.0135,12,5.5,mww,,15,1.843,0.93,us,us1000i36p,2022-05-03T19:41:02.958Z,"8 km WSW of Gili Air, Indonesia",earthquake,6.2,1.7,0.054,33,reviewed,us,us
+2018-12-04T06:52:58.300Z,2.3784,126.8469,36.76,5.5,mww,,23,1.678,1.26,us,us1000i1qd,2022-05-03T19:40:55.556Z,"147 km WNW of Tobelo, Indonesia",earthquake,6.8,4.6,0.066,22,reviewed,us,us
+2018-12-03T14:00:07.530Z,-7.3617,128.7477,131,5.5,mww,,29,2.602,0.9,us,us1000i16h,2022-08-08T10:32:48.926Z,"231 km ENE of Lospalos, Timor Leste",earthquake,6.9,1.9,0.041,57,reviewed,us,us
+2018-12-01T13:27:21.080Z,-7.3841,128.7065,136,6.4,mww,,20,2.637,0.93,us,us1000hzjp,2022-05-03T19:58:20.497Z,"226 km NE of Lospalos, Timor Leste",earthquake,7.2,1.9,0.043,52,reviewed,us,us
+2018-11-29T20:21:44.660Z,0.2267,96.9976,9.87,5.8,mww,,30,1.216,0.75,us,us1000hy0k,2022-05-03T19:40:24.468Z,"244 km SSW of Singkil, Indonesia",earthquake,7.5,3,0.05,38,reviewed,us,us
+2018-11-14T23:01:21.840Z,-2.9068,119.3922,14.01,5.5,mww,,29,2.123,0.82,us,us1000hrxp,2022-05-03T19:57:56.601Z,"56 km W of Rantepao, Indonesia",earthquake,5.9,3.4,0.046,45,reviewed,us,us
+2018-11-11T07:13:38.900Z,1.5053,127.1727,124.39,5.1,mww,,60,0.753,0.84,us,us1000hqj1,2019-01-21T16:42:57.040Z,"82 km NNW of Ternate, Indonesia",earthquake,6.9,4.9,0.089,12,reviewed,us,us
+2018-10-20T09:47:52.920Z,-6.5155,128.2714,358.83,5.6,mww,,18,3.338,0.6,us,us1000hexe,2022-05-03T19:50:28.461Z,"262 km NNE of Lospalos, Timor Leste",earthquake,7.6,3.8,0.047,44,reviewed,us,us
+2018-10-19T05:55:12.820Z,-2.8208,139.1169,58,5.5,mww,,33,6.86,0.76,us,us1000he9l,2022-05-03T19:35:39.973Z,"170 km W of Abepura, Indonesia",earthquake,3.2,1.9,0.068,21,reviewed,us,us
+2018-10-13T04:34:14.650Z,1.5153,125.3094,97.15,5.2,mww,,22,2.185,1.13,us,us1000hbhw,2018-12-21T21:15:51.040Z,"37 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,7.4,4.1,0.068,21,reviewed,us,us
+2018-10-11T02:55:45.020Z,-4.9967,126.7227,15.06,5.6,mww,,28,5.317,0.81,us,us1000hafx,2022-05-03T19:35:01.832Z,"216 km SW of Ambon, Indonesia",earthquake,3.1,3.8,0.071,19,reviewed,us,us
+2018-10-10T18:44:55.280Z,-7.4525,114.4553,9,6,mww,,27,1.054,1.15,us,us1000ha6q,2022-05-03T19:34:50.917Z,"49 km NE of Panji, Indonesia",earthquake,5.8,1.7,0.041,58,reviewed,us,us
+2018-10-02T04:49:31.220Z,-10.4716,120.1194,17.58,5.7,mww,,37,2.773,0.97,us,us1000h5h5,2022-05-03T19:33:20.842Z,"91 km S of Waingapu, Indonesia",earthquake,6.1,3,0.052,36,reviewed,us,us
+2018-10-02T00:16:45.690Z,-10.4747,120.1428,26,5.9,mww,,20,2.758,1.1,us,us1000hf6g,2022-05-03T20:01:06.304Z,"91 km S of Waingapu, Indonesia",earthquake,6.5,1.7,0.069,20,reviewed,us,us
+2018-10-01T23:59:42.740Z,-10.5585,120.2424,29,6,mww,,19,2.742,1.32,us,us1000h5eg,2022-05-03T19:33:19.640Z,"99 km S of Waingapu, Indonesia",earthquake,5.3,1.9,0.047,44,reviewed,us,us
+2018-09-28T13:35:30.630Z,0.0587,119.6831,10,5.7,mb,,21,1.516,0.82,us,us1000h3sd,2022-05-03T19:32:34.535Z,"108 km N of Palu, Indonesia",earthquake,6.1,1.7,0.052,134,reviewed,us,us
+2018-09-28T11:06:50.790Z,-1.5037,120.0576,10,5.2,mb,,30,2.696,1.02,us,us1000h3ra,2018-12-01T16:42:58.040Z,"69 km SSE of Palu, Indonesia",earthquake,5,1.6,0.057,102,reviewed,us,us
+2018-09-28T10:50:25.030Z,-0.7806,119.9147,10,5.6,mb,,17,2.069,1,us,us1000h3r6,2022-05-03T19:32:32.233Z,"14 km NNE of Palu, Indonesia",earthquake,5.8,1.7,0.049,145,reviewed,us,us
+2018-09-28T10:16:48.730Z,-0.8748,120.0342,10,5.7,mb,,24,2.109,0.82,us,us1000h3rc,2022-08-08T08:42:33.777Z,"Minahasa, Sulawesi, Indonesia",earthquake,6,1.7,0.052,133,reviewed,us,us
+2018-09-28T10:14:20.120Z,-0.0175,119.7549,10,5.8,mb,,20,1.52,1.07,us,us1000h3p8,2022-08-08T08:41:47.830Z,"99 km N of Palu, Indonesia",earthquake,5.8,1.7,0.048,157,reviewed,us,us
+2018-09-28T06:59:59.740Z,-0.4009,119.7705,4.99,6.1,mww,,33,1.81,0.95,us,us1000h3mf,2022-05-03T19:53:31.176Z,"57 km NNW of Palu, Indonesia",earthquake,5.8,3.5,0.071,19,reviewed,us,us
+2018-09-14T15:50:17.820Z,-2.7371,138.7747,48,5.8,mww,,20,6.52,0.91,us,us2000hep2,2022-05-03T19:30:14.584Z,"207 km W of Abepura, Indonesia",earthquake,7.5,1.9,0.053,34,reviewed,us,us
+2018-08-28T18:36:32.910Z,-9.0219,110.1451,40,5.2,mww,,34,1.164,1.36,us,us1000gj2a,2018-11-07T18:37:03.040Z,"119 km S of Bambanglipuro, Indonesia",earthquake,5.9,1.9,0.071,19,reviewed,us,us
+2018-08-28T07:13:32.150Z,-10.631,124.1363,8.18,5.7,mww,,82,0.879,1.21,us,us1000giie,2022-05-03T19:28:35.894Z,"77 km SE of Kupang, Indonesia",earthquake,7.3,3.4,0.089,12,reviewed,us,us
+2018-08-28T07:08:11.360Z,-10.773,124.1871,14,6.2,mww,,74,1.014,1.4,us,us1000gii0,2022-05-03T15:27:51.979Z,"92 km SE of Kupang, Indonesia",earthquake,8.9,1.8,0.053,34,reviewed,us,us
+2018-08-25T18:33:15.640Z,-8.422,116.9263,11.58,5.5,mww,,34,2.744,0.93,us,us1000ghbd,2022-05-03T19:28:30.485Z,"29 km ENE of Labuan Lombok, Indonesia",earthquake,5.9,2.9,0.051,37,reviewed,us,us
+2018-08-19T15:28:58.880Z,-8.391,116.5568,10,5.5,mb,,30,2.38,1.17,us,us1000gdb7,2022-05-03T19:54:34.591Z,"17 km NW of Labuan Lombok, Indonesia",earthquake,2.3,1.7,0.068,76,reviewed,us,us
+2018-08-19T15:16:35.240Z,-8.3511,116.5565,10,5.8,mb,,41,2.381,0.88,us,us1000gdaz,2022-05-03T20:00:58.436Z,"20 km NW of Labuan Lombok, Indonesia",earthquake,6.8,1.7,0.056,123,reviewed,us,us
+2018-08-19T15:04:02.940Z,-8.2842,116.5942,10,5.6,mb,,87,2.423,0.67,us,us1000giqe,2020-07-10T15:55:14.428Z,"25 km NNW of Labuan Lombok, Indonesia",earthquake,10.2,1.9,0.13,25,reviewed,us,us
+2018-08-19T14:56:27.490Z,-8.319,116.6272,21,6.9,mww,,31,2.453,0.88,us,us1000gda5,2022-05-03T19:27:30.548Z,"20 km NNW of Labuan Lombok, Indonesia",earthquake,6.4,1.8,0.057,30,reviewed,us,us
+2018-08-19T04:10:22.640Z,-8.3366,116.5993,16,6.3,mww,,14,2.424,1.11,us,us1000gcvr,2022-05-03T19:27:27.925Z,"19 km NNW of Labuan Lombok, Indonesia",earthquake,6.2,1.7,0.11,8,reviewed,us,us
+2018-08-17T15:35:01.890Z,-7.3718,119.8017,529,6.5,mww,,23,2.719,0.98,us,us1000gbi4,2022-05-03T20:03:34.899Z,"124 km N of Labuan Bajo, Indonesia",earthquake,8.8,1.9,0.045,48,reviewed,us,us
+2018-08-09T05:25:32.380Z,-8.3065,116.2304,15,5.9,mww,,19,2.062,1.03,us,us1000g5n1,2022-05-03T19:26:31.574Z,"17 km ENE of Gili Air, Indonesia",earthquake,6.4,1.7,0.044,49,reviewed,us,us
+2018-08-05T12:49:55.250Z,-8.358,116.1402,31.26,5.5,mb,,28,1.97,1.13,us,us1000g3uy,2022-05-03T19:25:54.787Z,"6 km E of Gili Air, Indonesia",earthquake,6.4,3.5,0.053,121,reviewed,us,us
+2018-08-05T08:56:24.820Z,-2.3473,99.4295,21,5,mww,,42,3.105,0.66,us,us1000g3sp,2022-05-03T19:26:06.685Z,"185 km SSW of Padang, Indonesia",earthquake,7.2,1.8,0.089,12,reviewed,us,us
+2018-07-28T17:07:23.380Z,-7.1039,122.7263,578.16,6,mww,,19,1.597,1.31,us,us2000gg76,2022-05-03T19:27:14.441Z,"177 km NNE of Maumere, Indonesia",earthquake,7.7,2.7,0.039,63,reviewed,us,us
+2018-07-03T09:59:54.580Z,5.8959,125.1334,97,5.7,mww,,42,1.247,1.14,us,us2000fvnq,2022-08-08T05:34:53.226Z,"7 km E of Tinoto, Philippines",earthquake,7,1.8,0.048,41,reviewed,us,us
+2018-06-15T00:57:13.330Z,-1.9442,138.7944,10,5.6,mww,,13,6.61,0.75,us,us1000erwa,2022-05-03T19:18:39.020Z,"216 km WNW of Abepura, Indonesia",earthquake,7.5,1.7,0.068,21,reviewed,us,us
+2018-06-13T06:59:02.670Z,-1.9309,98.6411,19,5.5,mww,,30,3.283,0.91,us,us1000epp2,2022-05-03T19:56:44.564Z,"219 km WSW of Padang, Indonesia",earthquake,6.9,1.7,0.065,23,reviewed,us,us
+2018-06-12T23:46:11.940Z,-1.9469,98.6868,10,5.6,mb,,51,3.26,0.92,us,us1000epg0,2022-05-03T19:17:17.074Z,"215 km WSW of Padang, Indonesia",earthquake,7.4,1.8,0.049,145,reviewed,us,us
+2018-06-12T23:08:28.310Z,-2.0196,98.5876,9,5.9,mww,,34,3.382,0.95,us,us1000epfe,2022-05-03T19:17:16.028Z,"229 km WSW of Padang, Indonesia",earthquake,2.7,1.7,0.058,29,reviewed,us,us
+2018-06-02T16:28:59.560Z,4.5872,126.6573,23.1,5.7,mww,,43,2.689,1.03,us,us1000ehes,2022-05-03T19:15:36.256Z,"160 km SE of Sarangani, Philippines",earthquake,5,3.8,0.052,36,reviewed,us,us
+2018-05-16T02:12:17.430Z,-3.7928,138.5901,90,5.5,mww,,15,6.389,0.91,us,us1000e61u,2022-05-03T19:53:19.110Z,"262 km WSW of Abepura, Indonesia",earthquake,7.6,1.9,0.061,26,reviewed,us,us
+2018-04-26T16:55:58.340Z,-1.9046,139.7802,10,5.6,mww,,14,7.582,0.89,us,us1000dstu,2022-05-03T19:10:42.110Z,"121 km NW of Abepura, Indonesia",earthquake,6.9,1.7,0.057,30,reviewed,us,us
+2018-04-23T08:13:58.060Z,-1.2872,138.425,10,5.5,mww,,13,6.381,0.89,us,us1000dqk1,2022-05-03T19:10:29.119Z,"261 km E of Biak, Indonesia",earthquake,6.8,1.6,0.061,26,reviewed,us,us
+2018-04-23T07:37:11.310Z,-6.3107,123.6455,652.53,5.5,mww,,38,2.699,1.04,us,us1000dqj3,2022-05-03T19:10:34.471Z,"197 km SE of Katabu, Indonesia",earthquake,8.7,4.3,0.066,22,reviewed,us,us
+2018-04-17T02:52:35.330Z,-3.5216,131.3032,10,5.5,mww,,25,1.117,0.92,us,us2000e1b6,2022-05-03T19:10:13.496Z,"265 km E of Amahai, Indonesia",earthquake,6.2,1.7,0.055,32,reviewed,us,us
+2018-04-15T19:30:43.200Z,1.4083,126.8759,34,6,mww,,29,0.8,1.35,us,us2000e0mq,2022-08-08T02:13:55.542Z,"88 km NW of Ternate, Indonesia",earthquake,6,1.7,0.057,30,reviewed,us,us
+2018-04-06T07:46:58.890Z,-1.4171,138.2026,10,5.6,mww,,38,6.133,0.77,us,us2000dveh,2022-05-03T19:09:48.281Z,"237 km E of Biak, Indonesia",earthquake,7.3,1.8,0.056,31,reviewed,us,us
+2018-04-03T09:14:06.470Z,3.0594,127.9812,62.9,5.5,mww,,19,2.353,0.94,us,us1000ddj5,2022-05-03T19:09:01.202Z,"147 km N of Tobelo, Indonesia",earthquake,6.2,4.1,0.062,25,reviewed,us,us
+2018-03-25T20:14:47.690Z,-6.6343,129.8172,169,6.4,mww,,13,1.988,1.09,us,us1000d8xh,2022-05-03T19:09:10.039Z,"Banda Sea",earthquake,6.5,0.7,0.033,87,reviewed,us,us
+2018-03-25T08:58:10.930Z,-7.3049,128.4848,144,5.7,mww,,34,2.869,0.79,us,us1000d8u9,2022-05-03T19:45:06.715Z,"212 km NE of Lospalos, Timor Leste",earthquake,7.2,1.9,0.052,36,reviewed,us,us
+2018-03-08T03:51:07.240Z,-3.3428,130.9337,10,5.6,mww,,23,1.379,0.9,us,us1000d19r,2022-05-03T18:49:21.892Z,"223 km E of Amahai, Indonesia",earthquake,5.8,1.7,0.068,21,reviewed,us,us
+2018-03-02T02:20:12.280Z,-6.1353,130.2782,135,5.9,mww,,30,2.096,0.94,us,us2000damy,2022-05-03T19:09:41.358Z,"279 km WSW of Tual, Indonesia",earthquake,6.4,1.9,0.045,48,reviewed,us,us
+2018-02-26T13:34:53.530Z,-2.7774,126.6859,9,6.1,mww,,38,3.59,0.8,us,us2000d855,2022-05-03T18:50:51.852Z,"194 km WNW of Ambon, Indonesia",earthquake,6.7,1.7,0.048,41,reviewed,us,us
+2018-02-14T00:05:30.180Z,-5.9879,133.8125,10,5.2,mww,,21,3.186,1.01,us,us2000d1rb,2022-08-08T00:19:46.284Z,"123 km ESE of Tual, Indonesia",earthquake,6.9,1.8,0.068,21,reviewed,us,us
+2018-02-02T00:20:42.210Z,-0.2471,125.1824,38,5.5,mww,,35,2.407,1.36,us,us1000ce2h,2022-05-03T18:47:02.079Z,"174 km S of Tondano, Indonesia",earthquake,6,1.8,0.069,20,reviewed,us,us
+2018-01-23T06:34:54.980Z,-7.0924,105.9632,48.19,5.9,mww,,27,1.66,1.45,us,us2000cmwz,2022-09-13T02:39:16.250Z,"66 km W of Pelabuhanratu, Indonesia",earthquake,6,3.9,0.052,36,reviewed,us,us
+2018-01-18T17:48:40.550Z,-6.3958,132.8126,33,5.6,mww,,22,2.177,0.95,us,usd0008ke6,2022-05-03T18:45:30.263Z,"85 km S of Tual, Indonesia",earthquake,2.9,3.5,0.059,28,reviewed,us,us
+2017-12-28T17:20:19.350Z,4.0803,126.7919,23.79,5.7,mww,,47,3.205,1.01,us,us1000bx7a,2022-05-03T19:02:01.128Z,"207 km SE of Sarangani, Philippines",earthquake,6,3.3,0.062,25,reviewed,us,us
+2017-12-15T16:47:58.230Z,-7.4921,108.1743,90,6.5,mww,,28,2.365,1.07,us,us2000c4v8,2022-11-12T10:29:13.836Z,"12 km SSW of Kawalu, Indonesia",earthquake,8,1.8,0.058,29,reviewed,us,us
+2017-12-06T16:06:56.990Z,-0.6299,123.6681,28,5.5,mww,,31,0.985,0.99,us,us1000bms0,2022-05-03T19:01:47.870Z,"104 km ENE of Luwuk, Indonesia",earthquake,6.2,1.8,0.06,27,reviewed,us,us
+2017-11-29T23:53:50.300Z,-6.7362,129.7816,157,5.5,mww,,17,1.948,0.91,us,us1000bj4z,2022-08-07T21:42:16.514Z,"Banda Sea",earthquake,6.2,1.8,0.059,28,reviewed,us,us
+2017-11-18T18:36:41.270Z,2.3972,128.1485,14.88,5.4,mww,,34,1.793,0.8,us,us2000br3s,2022-05-03T18:40:49.240Z,"75 km NNE of Tobelo, Indonesia",earthquake,7.1,3.3,0.069,20,reviewed,us,us
+2017-11-18T16:07:00.300Z,2.4648,128.1481,8,5.8,mww,,69,1.854,1.16,us,us2000br1i,2022-05-03T19:01:37.748Z,"82 km N of Tobelo, Indonesia",earthquake,4.5,1.8,0.056,31,reviewed,us,us
+2017-10-31T12:37:47.820Z,-3.8194,127.769,15.77,5.7,mww,,22,4.56,1.09,us,us1000az05,2022-05-03T18:39:41.156Z,"48 km WSW of Ambon, Indonesia",earthquake,6.7,3,0.047,43,reviewed,us,us
+2017-10-31T11:50:48.370Z,-3.7449,127.7517,6,6.1,mww,,22,4.503,1.15,us,us1000ayz8,2022-05-03T18:40:40.470Z,"48 km W of Ambon, Indonesia",earthquake,6.6,1.7,0.05,39,reviewed,us,us
+2017-10-31T11:34:39.350Z,-3.7687,127.6675,8.14,5.6,mww,,37,4.52,0.96,us,us1000ayz4,2022-05-03T19:55:46.310Z,"57 km W of Ambon, Indonesia",earthquake,6.6,3.1,0.103,9,reviewed,us,us
+2017-10-31T11:31:39.440Z,-3.8261,127.7209,4,5.8,mww,,22,4.58,1.08,us,us1000ayz3,2022-05-03T18:39:39.987Z,"53 km WSW of Ambon, Indonesia",earthquake,6.6,1.7,0.049,40,reviewed,us,us
+2017-10-30T22:37:18.550Z,-8.6014,118.9841,110.17,5.5,mb,,42,3.217,1.15,us,us1000aysa,2020-07-10T15:36:25.896Z,"32 km ESE of Bima, Indonesia",earthquake,6.6,2.5,0.046,166,reviewed,us,us
+2017-10-25T11:58:14.770Z,-4.8552,131.0906,41.82,5.5,mww,,28,2.243,0.84,us,us1000awna,2022-05-03T18:39:28.068Z,"203 km WNW of Tual, Indonesia",earthquake,6.4,4.4,0.073,18,reviewed,us,us
+2017-10-24T10:47:47.860Z,-7.2168,123.0735,553.81,6.7,mww,,16,1.634,0.97,us,us1000aw8q,2022-05-03T18:39:26.957Z,"181 km NNE of Maumere, Indonesia",earthquake,8.6,3.1,0.046,46,reviewed,us,us
+2017-10-18T13:40:55.610Z,-0.2383,122.9492,92.61,5.6,mb,,44,0.817,0.95,us,us1000atq3,2020-07-10T15:35:53.500Z,"80 km NNE of Luwuk, Indonesia",earthquake,6.6,5.4,0.084,50,reviewed,us,us
+2017-09-30T23:15:29.380Z,3.9397,128.4983,10,5.6,mww,,18,3.343,0.97,us,us2000axas,2022-05-03T19:55:43.385Z,"250 km NNE of Tobelo, Indonesia",earthquake,7,1.6,0.065,23,reviewed,us,us
+2017-09-20T23:59:24.900Z,-6.1113,113.024,588,5.7,mww,,13,2.597,1.17,us,us2000as7r,2022-08-07T18:12:40.191Z,"108 km NNE of Bangkalan, Indonesia",earthquake,7.9,1.8,0.06,27,reviewed,us,us
+2017-08-31T17:06:55.750Z,-1.159,99.6881,43.14,6.3,mww,,20,2,1.13,us,us2000adjh,2022-08-07T16:08:04.011Z,"76 km SW of Pariaman, Indonesia",earthquake,6.5,3.3,0.056,31,reviewed,us,us
+2017-08-27T00:02:22.440Z,-10.326,111.1036,10,5.2,mww,,23,2.465,1.14,us,us2000ac5g,2017-11-28T18:33:48.040Z,"257 km SSW of Trenggalek, Indonesia",earthquake,6.4,1.7,0.071,19,reviewed,us,us
+2017-08-18T21:00:49.210Z,-6.2578,128.0493,13.7,5.5,mww,,24,3.651,0.72,us,us2000a9k7,2022-05-03T18:35:42.163Z,"275 km NNE of Lospalos, Timor Leste",earthquake,6.7,3.6,0.056,31,reviewed,us,us
+2017-08-14T23:49:27.150Z,-3.7909,140.2565,18.04,5.4,mww,,19,1.344,0.8,us,us2000a88s,2022-05-03T18:35:26.245Z,"138 km SSW of Abepura, Indonesia",earthquake,3.4,3.1,0.071,19,reviewed,us,us
+2017-08-13T03:08:10.560Z,-3.7682,101.6228,31,6.4,mww,,26,1.453,0.9,us,us2000a7q2,2022-08-07T14:38:00.682Z,"71 km W of Bengkulu, Indonesia",earthquake,5.8,1.7,0.057,30,reviewed,us,us
+2017-07-27T12:08:38.400Z,-3.5583,126.0847,15.58,5.8,mww,,30,4.147,1.11,us,us2000a1qs,2022-05-03T18:34:16.350Z,"233 km W of Ambon, Indonesia",earthquake,6.9,3.3,0.059,28,reviewed,us,us
+2017-07-25T23:23:23.430Z,-5.6622,101.3798,10,5.3,mww,,36,2.033,0.78,us,us2000a15p,2017-10-14T00:19:40.040Z,"228 km SSW of Bengkulu, Indonesia",earthquake,6.5,1.8,0.083,14,reviewed,us,us
+2017-07-23T07:55:55.780Z,0.3096,120.2036,67,5.5,mww,,35,0.983,0.89,us,us20009zyk,2022-05-03T19:00:09.595Z,"139 km NNE of Palu, Indonesia",earthquake,5.7,1.7,0.066,22,reviewed,us,us
+2017-07-15T12:12:21.490Z,0.4098,121.9844,113,5.9,mww,,15,1.389,1.07,us,us20009wjw,2022-08-07T11:57:00.842Z,"120 km W of Gorontalo, Indonesia",earthquake,6.9,1.8,0.053,34,reviewed,us,us
+2017-06-11T23:15:06.150Z,-8.3206,106.259,7,5.7,mww,,46,2.004,1.46,us,us20009lwc,2022-05-03T18:59:43.679Z,"150 km SSW of Pelabuhanratu, Indonesia",earthquake,3.2,1.7,0.048,42,reviewed,us,us
+2017-05-29T14:35:21.510Z,-1.2923,120.4313,12,6.6,mww,,18,2.353,0.9,us,us10008w1z,2022-05-03T18:30:52.092Z,"37 km WNW of Poso, Indonesia",earthquake,5.6,1.7,0.045,47,reviewed,us,us
+2017-04-29T10:02:12.550Z,-9.6687,111.8495,10,5.5,mww,,39,2.182,0.84,us,us10008lzr,2022-05-03T18:58:46.789Z,"171 km S of Boyolangu, Indonesia",earthquake,6.9,1.8,0.052,36,reviewed,us,us
+2017-04-28T20:23:17.260Z,5.5043,125.0658,26,6.9,mww,,14,1.636,0.99,us,us10008ls4,2022-05-03T15:27:38.456Z,"31 km SW of Burias, Philippines",earthquake,6.6,1.8,0.044,49,reviewed,us,us
+2017-04-13T16:05:46.660Z,5.7278,127.3001,10,5.5,mww,,73,2.168,0.87,us,us10008hb9,2022-05-03T18:15:43.233Z,"142 km ESE of Pondaguitan, Philippines",earthquake,5.4,1.8,0.068,21,reviewed,us,us
+2017-04-11T14:42:16.530Z,5.7068,127.0949,12,5.7,mww,,63,2.025,0.74,us,us10008gkz,2022-05-03T18:30:12.345Z,"124 km SE of Pondaguitan, Philippines",earthquake,8.2,1.7,0.066,22,reviewed,us,us
+2017-04-10T10:38:47.900Z,5.6754,127.2013,13,5.8,mww,,25,2.125,0.95,us,us10008g7h,2022-08-07T11:46:44.454Z,"136 km SE of Pondaguitan, Philippines",earthquake,7.3,1.7,0.059,28,reviewed,us,us
+2017-03-31T11:21:01.040Z,0.3086,120.5802,94,5.5,mww,,17,0.822,1.1,us,us10008dhp,2022-05-03T18:14:41.301Z,"156 km NNE of Palu, Indonesia",earthquake,6.4,1.8,0.05,38,reviewed,us,us
+2017-03-25T14:57:27.810Z,-3.0487,136.8661,33.97,5.5,mww,,34,4.612,0.84,us,us20008ulq,2022-05-03T18:14:13.217Z,"155 km ENE of Nabire, Indonesia",earthquake,8,3.5,0.061,26,reviewed,us,us
+2017-03-21T23:10:25.150Z,-8.4915,115.3233,111.71,5.6,mww,,17,1.158,1.11,us,us20008tme,2022-05-03T18:13:12.815Z,"6 km ENE of Ubud, Indonesia",earthquake,6.9,3,0.066,22,reviewed,us,us
+2017-03-16T18:39:26.270Z,-11.539,114.5737,10,5.5,mww,,46,3.077,1.43,us,us20008siq,2022-08-07T11:44:23.438Z,"south of Bali, Indonesia",earthquake,8.6,1.7,0.068,21,reviewed,us,us
+2017-03-14T13:13:38.270Z,3.6425,95.8593,44.85,5.2,mww,,48,1.913,1.03,us,us100088vy,2017-06-07T00:33:38.040Z,"62 km SSW of Meulaboh, Indonesia",earthquake,7.1,4,0.098,10,reviewed,us,us
+2017-03-14T05:55:21.510Z,0.6515,121.1465,75.46,5.4,mww,,22,0.584,1.17,us,us100088tq,2017-06-07T00:33:38.040Z,"213 km W of Gorontalo, Indonesia",earthquake,6.6,4.2,0.089,12,reviewed,us,us
+2017-03-08T01:38:44.110Z,2.302,128.655,57.8,5.2,mww,,51,1.992,0.91,us,us100087lk,2022-05-03T18:57:41.249Z,"95 km NE of Tobelo, Indonesia",earthquake,6.3,4.8,0.089,12,reviewed,us,us
+2017-03-07T15:45:39.560Z,-6.2615,102.1873,10,5.5,mww,,24,2.037,0.74,us,us100087gx,2022-05-03T18:57:40.141Z,"272 km S of Bengkulu, Indonesia",earthquake,7.1,1.7,0.073,18,reviewed,us,us
+2017-03-01T06:59:41.360Z,-6.366,130.0372,141,5.3,mww,,21,2.036,0.96,us,us100085ws,2017-05-24T02:48:12.040Z,"Banda Sea",earthquake,4.2,1.8,0.075,17,reviewed,us,us
+2017-02-15T19:47:07.380Z,5.2964,96.066,13,5.4,mww,,35,0.88,1.29,us,us20008k1z,2022-05-03T18:57:35.401Z,"15 km SE of Sigli, Indonesia",earthquake,5.3,1.7,0.061,26,reviewed,us,us
+2017-01-21T05:16:31.800Z,2.8266,128.2084,46.85,5.6,mww,,33,2.207,1.04,us,us10007ul1,2022-05-03T18:09:19.973Z,"123 km N of Tobelo, Indonesia",earthquake,6.8,5,0.066,22,reviewed,us,us
+2017-01-17T11:48:46.330Z,5.418,94.5582,35,5.1,mwb,,26,2.386,1.16,us,us10007tps,2017-04-12T02:28:59.040Z,"86 km W of Banda Aceh, Indonesia",earthquake,5.2,1.9,0.078,16,reviewed,us,us
+2017-01-16T12:42:10.680Z,3.3168,98.4696,6,5.6,mww,,31,0.767,1.27,us,us10007tii,2022-05-03T18:09:05.306Z,"14 km NNW of Berastagi, Indonesia",earthquake,5.2,1.7,0.069,20,reviewed,us,us
+2017-01-14T11:41:19.160Z,1.2682,126.4049,22.67,5.4,mww,,31,1.08,1.01,us,us10007t9u,2022-05-03T18:08:57.077Z,"121 km WNW of Ternate, Indonesia",earthquake,6.8,3.5,0.098,10,reviewed,us,us
+2017-01-13T16:39:25.240Z,0.0303,125.077,42,5.7,mww,,27,2.405,1.12,us,us10007t3y,2022-05-03T18:57:15.232Z,"142 km S of Tondano, Indonesia",earthquake,6.6,1.9,,,reviewed,us,us
+2017-01-12T13:29:06.300Z,-5.2669,102.7235,22.95,5.5,mb,,60,0.929,1.26,us,us10007sv2,2022-05-03T18:57:14.101Z,"southern Sumatra, Indonesia",earthquake,6.1,3.8,0.059,100,reviewed,us,us
+2017-01-10T06:13:48.140Z,4.4782,122.6171,627.17,7.3,mww,,18,3.813,1.05,us,us10007s9c,2022-05-03T19:43:16.287Z,"189 km SSE of Tabiauan, Philippines",earthquake,8.5,3,,,reviewed,us,us
+2017-01-09T11:28:36.180Z,-1.7147,100.3498,44,5.4,mww,,25,2.141,0.93,us,us10007s3x,2022-05-03T18:16:56.158Z,"84 km S of Padang, Indonesia",earthquake,6.9,1.9,0.065,23,reviewed,us,us
+2017-01-07T09:11:59.550Z,-9.3195,120.2104,76.4,5.2,mww,,50,2.114,1.15,us,us10007rue,2017-03-27T23:53:26.040Z,"37 km N of Waingapu, Indonesia",earthquake,7,4.8,,,reviewed,us,us
+2017-01-01T14:13:34.140Z,3.5887,128.2355,10,5.3,mwb,,56,5.364,0.61,us,us10007p3h,2017-03-27T23:53:17.040Z,"207 km N of Tobelo, Indonesia",earthquake,8.9,1.8,0.052,36,reviewed,us,us
+2017-01-01T14:12:05.720Z,3.6359,128.5907,11,5.2,mwb,,95,3.096,0.7,us,us10007p3f,2017-03-27T23:53:17.040Z,"220 km NNE of Tobelo, Indonesia",earthquake,7.6,1.8,0.075,17,reviewed,us,us
+2016-12-29T22:30:19.300Z,-9.0279,118.6639,79,6.3,mww,,26,3.553,1.42,us,us10007nl0,2022-05-03T18:56:41.485Z,"58 km SSE of Dompu, Indonesia",earthquake,6.2,1.8,,,reviewed,us,us
+2016-12-21T00:17:14.990Z,-7.5082,127.9206,152,6.7,mww,,17,3.38,1.2,us,us10007lkw,2022-05-03T18:56:35.853Z,"151 km NE of Lospalos, Timor Leste",earthquake,5.3,1.8,,,reviewed,us,us
+2016-12-05T01:13:04.880Z,-7.3158,123.3802,526,6.3,mww,,14,1.732,1.03,us,us10007ev8,2022-05-03T19:28:27.785Z,"193 km NE of Maumere, Indonesia",earthquake,5.6,1.9,,,reviewed,us,us
+2016-12-04T05:24:05.400Z,4.5051,127.8342,139,5.7,mww,,42,3.394,0.69,us,us10007er7,2022-05-03T18:03:49.499Z,"275 km SE of Pondaguitan, Philippines",earthquake,7.6,1.9,,,reviewed,us,us
+2016-11-30T02:42:14.990Z,-6.9865,131.8204,24,5.7,mww,,48,1.116,0.95,us,us10007d73,2022-05-03T19:50:18.184Z,"182 km SW of Tual, Indonesia",earthquake,5.8,1.8,,,reviewed,us,us
+2016-11-17T16:56:44.290Z,-6.2582,130.4786,112.15,5.5,mww,,17,1.896,1.06,us,us100079g9,2022-05-03T19:48:59.801Z,"261 km WSW of Tual, Indonesia",earthquake,5.3,3,,,reviewed,us,us
+2016-11-16T15:10:11.020Z,-9.0027,113.2445,85,5.7,mww,,33,1.041,1.08,us,us100078vh,2022-05-03T19:48:51.410Z,"80 km S of Kencong, Indonesia",earthquake,6.7,1.8,,,reviewed,us,us
+2016-11-07T21:31:28.330Z,-8.11,104.8401,33,5.8,mww,,19,4.169,0.83,us,us10007659,2022-05-03T19:46:40.019Z,"220 km SSW of Labuan, Indonesia",earthquake,7.9,1.8,,,reviewed,us,us
+2016-10-27T08:17:50.160Z,1.3702,125.758,61,5.8,mww,,33,1.714,0.96,us,us100072ai,2022-05-03T18:56:04.842Z,"88 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,6.4,1.9,,,reviewed,us,us
+2016-10-19T00:26:01.090Z,-4.8626,108.1627,614,6.6,mww,,16,2.022,1.21,us,us20007f7j,2022-05-03T18:02:02.240Z,"161 km NNE of Pamanukan, Indonesia",earthquake,6.6,1.9,,,reviewed,us,us
+2016-10-09T14:46:26.690Z,1.7703,127.449,128,5.8,mww,,30,0.995,0.81,us,us20007cya,2022-05-03T19:28:25.011Z,"62 km W of Tobelo, Indonesia",earthquake,5.8,1.8,,,reviewed,us,us
+2016-09-24T11:09:43.850Z,-1.8499,140.5604,13.76,5.7,mwc,,25,6.804,0.87,us,us10006sb0,2022-05-03T18:00:28.935Z,"77 km NNW of Jayapura, Indonesia",earthquake,7.7,3.1,,,reviewed,us,gcmt
+2016-09-24T11:04:29.550Z,-1.9534,140.5974,8,5.9,mww,,20,6.765,1.04,us,us10006say,2022-05-03T18:00:22.538Z,"65 km NNW of Jayapura, Indonesia",earthquake,7.9,1.7,,,reviewed,us,us
+2016-09-18T07:17:36.740Z,-2.0354,140.4805,10,5.8,mww,,18,6.881,0.72,us,us10006qm4,2022-05-03T19:42:14.841Z,"61 km NNW of Jayapura, Indonesia",earthquake,7.6,1.7,,,reviewed,us,us
+2016-09-17T02:30:56.820Z,-4.4346,102.7537,59.05,5.5,mb,,39,0.214,0.8,us,us10006qbk,2020-07-10T15:09:31.565Z,"71 km SW of Pagar Alam, Indonesia",earthquake,8.1,4.1,0.049,145,reviewed,us,us
+2016-09-17T01:20:17.940Z,-2.0829,140.5718,9,6,mww,,12,6.79,0.94,us,us10006qas,2022-05-03T18:55:03.065Z,"52 km NNW of Jayapura, Indonesia",earthquake,7.3,1.7,,,reviewed,us,us
+2016-09-15T19:45:55.220Z,-3.8488,128.9955,114,5.4,mww,,42,3.729,0.94,us,us10006pwz,2016-12-07T02:56:17.040Z,"56 km S of Amahai, Indonesia",earthquake,7,1.8,,,reviewed,us,us
+2016-09-01T20:04:17.480Z,0.5533,98.6145,35,5.5,mww,,34,1.278,1.26,us,us10006jg1,2022-05-03T18:05:50.005Z,"117 km SW of Padangsidempuan, Indonesia",earthquake,7.1,1.8,,,reviewed,us,us
+2016-08-28T07:23:52.400Z,-2.7862,138.4275,41.82,5.5,mww,,13,6.172,0.79,us,us20006urc,2020-07-10T16:33:02.551Z,"246 km W of Abepura, Indonesia",earthquake,7.3,3.6,,,reviewed,us,us
+2016-08-24T13:48:45.570Z,-2.9097,100.1775,19,5.6,mww,,58,3.124,0.85,us,us10006gf0,2022-05-03T17:57:51.218Z,"164 km SW of Sungai Penuh, Indonesia",earthquake,4.4,1.7,,,reviewed,us,us
+2016-08-23T19:40:46.660Z,-7.2131,122.5391,520.29,5.8,mb,,13,6.134,0.88,us,us10006gj0,2022-05-03T19:43:18.099Z,"159 km NNE of Maumere, Indonesia",earthquake,8.7,5.1,0.058,109,reviewed,us,us
+2016-08-23T19:39:44.580Z,-7.2872,122.4345,533,6,mww,,10,1.353,1.17,us,us10006g2n,2022-05-03T17:57:47.651Z,"149 km N of Maumere, Indonesia",earthquake,5.5,3.4,,,reviewed,us,us
+2016-07-31T23:40:01.880Z,-8.1935,117.8136,21,5.6,mww,,45,3.633,1.14,us,us1000692a,2022-05-03T17:56:37.798Z,"43 km ENE of Pototano, Indonesia",earthquake,7,1.7,,,reviewed,us,us
+2016-07-23T07:41:44.700Z,-6.7596,101.2175,9,5.5,mww,,87,2.945,0.66,us,us20006h25,2022-05-03T17:55:50.467Z,"southwest of Sumatra, Indonesia",earthquake,4.7,1.9,,,reviewed,us,us
+2016-06-18T21:15:51.540Z,-3.3293,101.2686,39.77,5.4,mww,,35,1.97,0.81,us,us200065ap,2022-05-03T17:50:35.096Z,"122 km WNW of Bengkulu, Indonesia",earthquake,6.5,4.8,,,reviewed,us,us
+2016-06-14T22:09:28.070Z,-4.5967,137.9705,26.61,5.2,mww,,14,5.947,0.75,us,us200064fb,2022-08-03T01:50:29.694Z,"Papua, Indonesia",earthquake,7.3,3.3,,,reviewed,us,us
+2016-06-09T04:13:08.130Z,-11.2487,116.2669,19,6.1,mww,,27,3.459,0.76,us,us200062zs,2022-05-03T19:28:16.496Z,"279 km S of Lembar, Indonesia",earthquake,6.6,1.7,,,reviewed,us,us
+2016-06-07T19:15:15.330Z,1.2789,126.3712,31,6.3,mww,,10,1.115,1.1,us,us200062l9,2022-08-03T01:10:04.660Z,"125 km WNW of Ternate, Indonesia",earthquake,5.3,1.8,,,reviewed,us,us
+2016-06-05T16:25:33.540Z,-4.587,125.6264,429.62,6.3,mww,,17,5.308,1.13,us,us2000626m,2022-05-03T19:28:15.018Z,"Banda Sea",earthquake,8.7,3.7,,,reviewed,us,us
+2016-06-01T22:56:00.800Z,-2.0967,100.6654,50,6.6,mww,,16,2.435,0.87,us,us20005zt1,2022-08-03T00:34:07.219Z,"80 km W of Sungai Penuh, Indonesia",earthquake,3.5,1.8,,,reviewed,us,us
+2016-05-14T20:52:12.060Z,-6.8583,101.795,10,5.3,mww,,16,2.737,0.95,us,us10005hg9,2016-07-22T19:39:06.040Z,"southwest of Sumatra, Indonesia",earthquake,6.7,1.7,,,reviewed,us,us
+2016-05-02T04:21:24.710Z,-5.0262,104.6271,117,5.7,mww,,25,1.792,1.33,us,us10005cxc,2022-08-02T20:55:05.818Z,"35 km SW of Kotabumi, Indonesia",earthquake,7.2,1.8,,,reviewed,us,us
+2016-04-26T04:19:55.410Z,-4.5105,140.1922,107,5.6,mww,,17,8.082,0.79,us,us10005bki,2022-05-03T17:45:43.991Z,"215 km NW of Kiunga, Papua New Guinea",earthquake,8,1.9,,,reviewed,us,us
+2016-04-15T04:50:11.410Z,2.0125,127.0004,89.95,5.6,mwc,,25,1.285,0.8,us,us20005id2,2022-05-03T17:44:21.506Z,"116 km WNW of Tobelo, Indonesia",earthquake,6,4,,,reviewed,us,gcmt
+2016-04-14T23:15:07.910Z,-7.459,128.1235,136.78,5.6,mww,,12,3.189,1.32,us,us20005i7m,2022-08-02T18:27:20.693Z,"170 km NE of Lospalos, Timor Leste",earthquake,5.2,3.1,,,reviewed,us,us
+2016-04-10T02:14:34.590Z,-4.1489,102.211,41,5.7,mww,,15,0.771,1.15,us,us20005gqv,2022-08-02T17:32:53.518Z,"39 km S of Bengkulu, Indonesia",earthquake,6.1,1.8,,,reviewed,us,us
+2016-04-06T20:35:14.560Z,-6.0292,130.4296,118,5.5,mww,,21,2.123,1.03,us,us20005fx0,2022-05-03T19:08:44.182Z,"261 km W of Tual, Indonesia",earthquake,6.1,1.8,,,reviewed,us,us
+2016-04-06T14:45:29.620Z,-8.2036,107.3857,29,6.1,mww,,31,1.39,1.44,us,us20005fv5,2022-08-07T10:47:57.249Z,"111 km S of Banjar, Indonesia",earthquake,5.3,1.7,,,reviewed,us,us
+2016-04-05T08:29:20.950Z,4.2073,126.6515,35,5.9,mww,,41,3.037,1.25,us,us20005fjj,2022-05-03T19:36:33.300Z,"186 km SE of Sarangani, Philippines",earthquake,6.8,1.8,,,reviewed,us,us
+2016-03-29T09:18:11.250Z,2.3874,126.1019,55,5.5,mww,,20,2.043,1.27,us,us20005d4l,2016-11-10T22:14:52.006Z,"160 km NE of Laikit, Laikit II (Dimembe), Indonesia",earthquake,5.6,1.8,,,reviewed,us,us
+2016-03-19T08:51:24.920Z,-5.5662,129.4922,269.8,5.7,mww,,28,2.996,0.76,us,us20005az4,2022-05-03T17:43:18.110Z,"252 km SE of Ambon, Indonesia",earthquake,7.4,5.9,,,reviewed,us,us
+2016-03-16T13:09:52.810Z,4.725,125.1481,10,5.5,mww,,73,2.368,0.91,us,us20005a5n,2022-05-03T19:08:18.353Z,"82 km SSW of Sarangani, Philippines",earthquake,6.9,1.8,,,reviewed,us,us
+2016-03-03T08:36:32.650Z,-9.7645,125.316,29.5,5.6,mb,,77,1.686,0.68,us,us10004ua7,2022-05-03T17:42:22.197Z,"50 km S of Suai, Timor Leste",earthquake,8,5.6,0.079,56,reviewed,us,us
+2016-03-03T08:34:55.770Z,-9.4118,125.1883,20,5.4,mww,,25,1.697,1.06,us,us10004u9z,2022-05-03T17:42:16.079Z,"13 km SW of Suai, Timor Leste",earthquake,6,1.8,,,reviewed,us,us
+2016-03-03T00:10:50.390Z,-4.794,94.4101,10,5.6,mww,,24,6.833,0.68,us,us10004u8f,2022-05-03T19:08:00.807Z,"southwest of Sumatra, Indonesia",earthquake,7.7,1.7,,,reviewed,us,us
+2016-03-02T12:49:48.110Z,-4.9521,94.3299,24,7.8,mww,,20,7.009,1.14,us,us10004u1y,2022-08-07T10:07:56.151Z,"southwest of Sumatra, Indonesia",earthquake,7.5,1.8,,,reviewed,us,us
+2016-02-28T09:06:25.650Z,5.2757,125.3322,175.44,5.5,mww,,22,1.799,1.16,us,us10004taw,2022-08-07T10:03:49.061Z,"20 km SW of Sarangani, Philippines",earthquake,7.3,4.4,,,reviewed,us,us
+2016-02-17T17:26:02.210Z,0.8597,129.0605,9,6,mww,,22,1.695,1,us,us200050wc,2022-05-03T17:41:07.017Z,"151 km SE of Tobelo, Indonesia",earthquake,6,1.7,,,reviewed,us,us
+2016-02-12T10:02:24.050Z,-9.6338,119.4013,28,6.3,mww,,39,2.971,1.14,us,us20004zp9,2022-08-07T09:36:18.529Z,"94 km W of Waingapu, Indonesia",earthquake,6.4,1.7,,,reviewed,us,us
+2016-01-25T09:17:49.650Z,3.2058,128.392,42.65,5.5,mww,,21,2.625,1.28,us,us10004h1a,2016-11-10T22:09:52.726Z,"168 km NNE of Tobelo, Indonesia",earthquake,6.4,4.3,,,reviewed,us,us
+2016-01-18T19:21:50.180Z,-0.2717,129.5232,10,5.2,mww,,21,1.84,0.89,us,us10004fev,2022-05-03T19:18:53.034Z,"204 km WNW of Sorong, Indonesia",earthquake,3,1.7,,,reviewed,us,us
+2016-01-16T23:22:29.040Z,-3.8727,127.2292,4.11,5.6,mww,,14,4.615,0.91,us,us10004f44,2022-05-03T19:18:51.384Z,"107 km W of Ambon, Indonesia",earthquake,4.7,3.2,,,reviewed,us,us
+2016-01-11T16:38:05.900Z,3.8965,126.8621,13,6.5,mww,,22,3.144,0.72,us,us10004dj5,2022-05-03T17:39:22.536Z,"227 km SE of Sarangani, Philippines",earthquake,4.2,1.5,,,reviewed,us,us
+2015-12-24T23:10:58.170Z,-7.2182,128.9775,119,5.8,mww,,13,2.423,1.32,us,us100049dq,2022-05-03T19:18:25.787Z,"261 km ENE of Lospalos, Timor Leste",earthquake,5.9,1.8,,,reviewed,us,us
+2015-12-20T18:47:36.610Z,3.6455,117.6359,14,6.1,mww,,70,1.748,0.84,us,us100048hc,2022-08-02T00:20:36.832Z,"37 km N of Tarakan, Indonesia",earthquake,5.4,1.7,,,reviewed,us,us
+2015-12-19T15:03:36.010Z,-8.3684,107.0225,27,5.7,mww,,87,2.496,1.4,us,us100048d4,2022-08-02T00:08:58.346Z,"137 km SSW of Banjar, Indonesia",earthquake,6.7,1.8,,,reviewed,us,us
+2015-12-14T01:45:58.820Z,-4.056,129.5317,10,5.3,mww,,14,2.937,1.23,us,us20004gyq,2022-05-03T17:37:12.736Z,"104 km SE of Amahai, Indonesia",earthquake,5.9,1.7,,,reviewed,us,us
+2015-12-11T03:20:48.820Z,-4.9619,102.966,48.6,5.1,mww,,24,2.678,0.94,us,us20004gba,2022-05-03T17:37:08.060Z,"108 km SSW of Pagar Alam, Indonesia",earthquake,6.9,3.7,,,reviewed,us,us
+2015-12-09T14:56:58.040Z,-4.052,129.5097,10,,,,35,2.956,0.95,us,us20004fw7,2022-05-03T17:37:10.444Z,"102 km SE of Amahai, Indonesia",earthquake,6.5,1.8,,,reviewed,us,us
+2015-12-09T10:21:48.530Z,-4.1064,129.5079,21,6.9,mww,,14,2.979,0.86,us,us20004ft7,2022-08-01T22:40:17.187Z,"107 km SE of Amahai, Indonesia",earthquake,5.8,1.7,,,reviewed,us,us
+2015-11-28T14:47:18.970Z,-7.0548,105.9999,51.34,5.4,mww,,47,3.421,1.42,us,us100041wc,2022-08-01T20:48:26.393Z,"61 km W of Pelabuhanratu, Indonesia",earthquake,6.1,4.2,,,reviewed,us,us
+2015-11-25T18:57:41.590Z,1.4305,126.2904,33.16,5.7,mww,,20,1.259,0.98,us,us100041ay,2022-08-01T20:15:44.511Z,"140 km WNW of Ternate, Indonesia",earthquake,6.6,3,,,reviewed,us,us
+2015-11-21T09:06:13.460Z,-7.1484,129.9375,82,6.1,mww,,17,4.79,0.87,us,us1000402t,2022-08-01T19:13:14.977Z,"Kepulauan Babar, Indonesia",earthquake,5.8,1.6,,,reviewed,us,us
+2015-11-11T23:36:19.200Z,-7.2493,128.93,126,5.8,mww,,19,2.458,1.03,us,us10003xni,2022-08-01T17:27:48.663Z,"255 km ENE of Lospalos, Timor Leste",earthquake,6.5,1.8,,,reviewed,us,us
+2015-11-11T11:45:23.890Z,-8.9416,110.2187,83.02,5.5,mww,,35,1.066,1.49,us,us10003xd3,2022-08-01T17:23:35.972Z,"109 km S of Bambanglipuro, Indonesia",earthquake,6.5,4.1,,,reviewed,us,us
+2015-11-08T09:34:57.310Z,0.7863,98.8905,69,5.7,mww,,29,1.411,0.88,us,us10003vph,2022-08-01T16:46:07.507Z,"78 km SSW of Padangsidempuan, Indonesia",earthquake,6.4,1.8,,,reviewed,us,us
+2015-11-04T03:44:15.190Z,-8.3381,124.8754,20,6.5,mww,,21,1.53,0.83,us,us200041ty,2022-08-01T15:47:12.391Z,"47 km NW of Maubara, Timor Leste",earthquake,5.4,1.8,,,reviewed,us,us
+2015-11-03T21:25:02.010Z,-8.2825,124.9069,10.27,5.7,mww,,37,1.594,0.95,us,us200041rk,2022-08-01T15:37:11.362Z,"49 km NW of Maubara, Timor Leste",earthquake,6.2,3,,,reviewed,us,us
+2015-10-23T22:03:22.840Z,-2.1661,138.2666,8,5.8,mww,,14,2.46,1.01,us,us10003r43,2022-05-03T17:33:50.864Z,"266 km ESE of Biak, Indonesia",earthquake,6.4,1.7,,,reviewed,us,us
+2015-10-02T15:51:53.330Z,1.3146,125.0141,109.83,5.2,mww,,69,2.413,1.21,us,us10003js9,2016-11-10T21:54:46.635Z,"11 km E of Tondano, Indonesia",earthquake,7.1,0.6,,,reviewed,us,us
+2015-10-01T02:49:52.880Z,-6.0758,103.6444,35,5.1,mww,,43,3.323,0.69,us,us10003jei,2016-11-10T21:54:41.853Z,"192 km WSW of Bandar Lampung, Indonesia",earthquake,6.9,1.9,,,reviewed,us,us
+2015-10-01T00:05:00.810Z,-6.0326,103.7117,34,5.3,mwb,,11,3.261,1.24,us,us10003jdr,2016-11-10T21:54:40.056Z,"184 km WSW of Bandar Lampung, Indonesia",earthquake,6.7,1.7,0.054,33,reviewed,us,us
+2015-09-29T23:20:50.760Z,-2.5588,140.1977,19,5.4,mwb,,36,0.508,1,us,us10003iz7,2022-08-01T08:37:58.739Z,"near the north coast of Papua, Indonesia",earthquake,8.4,1.7,0.055,32,reviewed,us,us
+2015-09-27T02:56:13.740Z,-7.1772,129.6047,107,5.5,mww,,17,1.86,1,us,us20003pf6,2022-08-01T08:04:24.621Z,"Kepulauan Babar, Indonesia",earthquake,6.3,1.8,,,reviewed,us,us
+2015-09-26T17:23:26.830Z,5.2649,123.7966,516,5.5,mwb,,31,2.521,1.06,us,us20003pci,2022-05-03T17:32:26.296Z,"112 km SSW of Malisbeng, Philippines",earthquake,6.3,1.9,0.056,31,reviewed,us,us
+2015-09-24T15:53:27.740Z,-0.6212,131.2622,18,6.6,mww,,13,2.486,1.13,us,us20003nqr,2022-08-01T07:43:00.858Z,"28 km N of Sorong, Indonesia",earthquake,6.4,1.7,,,reviewed,us,us
+2015-09-16T07:40:58.690Z,1.8841,126.4288,41.55,6.3,mww,,19,1.449,0.99,us,us20003jwc,2022-05-03T17:30:33.528Z,"161 km NW of Ternate, Indonesia",earthquake,6.4,3.7,,,reviewed,us,us
+2015-09-13T01:13:14.640Z,0.0422,123.4494,143,5.4,mww,,13,1.272,1.25,us,us20003j3s,2022-05-03T19:13:30.304Z,"69 km SE of Gorontalo, Indonesia",earthquake,6.9,1.8,,,reviewed,us,us
+2015-09-04T20:08:31.580Z,-8.043,107.2248,37,5.4,mww,,50,0.759,1.63,us,us20003ghh,2022-08-01T03:36:01.658Z,"96 km SSW of Banjar, Indonesia",earthquake,5.6,1.8,,,reviewed,us,us
+2015-09-03T13:24:00.690Z,2.0551,126.6816,53,5.5,mww,,30,1.447,1.3,us,us20003fyy,2022-05-03T18:28:51.150Z,"152 km WNW of Tobelo, Indonesia",earthquake,4.9,1.8,,,reviewed,us,us
+2015-09-02T01:18:29.070Z,4.4132,124.6314,296,5.7,mww,,26,2.802,1.29,us,us20003fkb,2022-08-01T03:09:33.505Z,"143 km SW of Sarangani, Philippines",earthquake,7.5,1.8,,,reviewed,us,us
+2015-08-20T11:00:09.720Z,0.4854,126.5894,46.14,5.8,mww,,24,0.827,1,us,us100033n1,2022-08-01T00:56:55.868Z,"Molucca Sea",earthquake,6,3.6,,,reviewed,us,us
+2015-08-14T22:03:34.560Z,-6.8732,131.3416,35,5.1,mwc,,36,1.103,1.16,us,us100032ex,2022-08-01T00:05:01.123Z,"208 km SW of Tual, Indonesia",earthquake,5.7,1.9,,,reviewed,us,gcmt
+2015-07-27T21:41:21.710Z,-2.6286,138.5277,48,7,mww,,12,6.278,1.2,us,us200030kn,2022-07-31T21:09:28.114Z,"234 km W of Abepura, Indonesia",earthquake,6.7,1.8,,,reviewed,us,us
+2015-07-26T07:05:10.130Z,-9.2585,112.6695,52,5.9,mww,,14,1.661,1.1,us,us2000306u,2022-07-31T20:49:44.751Z,"116 km S of Dampit, Indonesia",earthquake,6.4,1.8,,,reviewed,us,us
+2015-07-24T21:44:38.920Z,-8.2477,108.9163,48,5.5,mwb,,17,1.625,1.33,us,us20002zzg,2022-07-31T20:30:34.274Z,"77 km SSW of Kroya, Indonesia",earthquake,5.6,1.2,0.06,27,reviewed,us,us
+2015-07-22T05:35:39.440Z,5.0563,94.7158,23.68,5.2,mww,,26,2.229,1.04,us,us20002z57,2022-07-31T19:54:36.936Z,"86 km SW of Banda Aceh, Indonesia",earthquake,7.8,3.4,,,reviewed,us,us
+2015-07-12T04:37:31.330Z,2.9918,128.1869,115,5.5,mwb,,37,2.352,0.98,us,us20002wvt,2022-05-03T18:28:05.732Z,"141 km N of Tobelo, Indonesia",earthquake,7.3,1.9,0.063,24,reviewed,us,us
+2015-06-15T21:04:24.670Z,4.1537,125.8447,136,5.7,mww,,21,2.908,1.38,us,us20002q2b,2022-05-03T18:49:44.499Z,"144 km SSE of Sarangani, Philippines",earthquake,7.3,1.9,,,reviewed,us,us
+2015-06-15T17:40:53.930Z,-9.742,125.2517,20,5.8,mww,,53,0.97,1.26,us,us20002pyz,2022-07-31T13:17:12.685Z,"47 km S of Suai, Timor Leste",earthquake,7.2,0.8,,,reviewed,us,us
+2015-05-26T16:42:33.040Z,-0.3277,135.7341,15,5.8,mww,,26,4.331,0.74,us,us10002c8s,2022-05-03T17:23:52.463Z,"96 km NNW of Insrom, Indonesia",earthquake,6.8,1.8,,,reviewed,us,us
+2015-05-20T17:20:44.020Z,1.8239,126.3984,35.97,5.4,mww,,43,1.424,1.19,us,us10002ay0,2022-07-31T08:12:04.061Z,"158 km NW of Ternate, Indonesia",earthquake,6.6,3.9,,,reviewed,us,us
+2015-05-15T20:26:56.870Z,-2.542,102.2191,151,6,mww,,25,2.503,1.15,us,us100029k5,2022-07-31T07:07:40.970Z,"106 km ESE of Sungai Penuh, Indonesia",earthquake,3.1,1.8,,,reviewed,us,us
+2015-05-08T03:12:21.520Z,1.5404,97.9026,36,5.7,mww,,23,0.402,1.21,us,us20002dp5,2022-05-03T17:21:30.695Z,"83 km S of Singkil, Indonesia",earthquake,5.7,1.8,,,reviewed,us,us
+2015-04-20T09:05:34.120Z,-5.6841,102.4776,27,5.7,mwb,,24,1.398,1.25,us,us200027rc,2022-05-03T17:19:47.777Z,"202 km SSW of Pagar Alam, Indonesia",earthquake,6.4,1.8,0.039,63,reviewed,us,us
+2015-04-11T05:00:42.480Z,2.1173,126.6945,50,5.5,mwb,,24,1.495,1,us,us200025t9,2022-05-03T17:19:22.080Z,"152 km WNW of Tobelo, Indonesia",earthquake,6.5,1.8,0.043,53,reviewed,us,us
+2015-04-04T08:06:18.250Z,-2.7838,127.6915,18.11,5.3,mwb,,24,3.546,0.87,us,us10001tvx,2022-05-03T17:18:52.733Z,"114 km NNW of Ambon, Indonesia",earthquake,4.2,3.1,0.066,22,reviewed,us,us
+2015-04-01T09:35:56.030Z,-6.9009,132.542,9,5.4,mww,,20,1.635,0.71,us,us10001spt,2022-05-03T17:18:33.850Z,"142 km S of Tual, Indonesia",earthquake,6.1,1.6,,,reviewed,us,us
+2015-03-29T07:50:54.290Z,1.6535,126.4846,45.05,5.6,mww,,31,1.242,0.94,us,us10001rqx,2022-05-03T18:23:43.985Z,"138 km NW of Ternate, Indonesia",earthquake,5.3,3.5,,,reviewed,us,us
+2015-03-28T22:28:50.780Z,0.4002,121.9895,118,5.9,mww,,12,1.399,0.88,us,us10001rmk,2022-05-03T18:23:42.642Z,"120 km W of Gorontalo, Indonesia",earthquake,6.1,1.8,,,reviewed,us,us
+2015-03-17T22:12:28.940Z,1.6686,126.5217,44,6.2,mww,,18,1.227,0.85,us,us10001nab,2022-07-28T02:55:30.531Z,"136 km NW of Ternate, Indonesia",earthquake,6.2,1.8,,,reviewed,us,us
+2015-03-15T23:17:16.910Z,-0.5409,122.3067,31,6.1,mww,,16,0.681,1.02,us,us10001mm0,2022-05-03T18:23:28.730Z,"70 km NW of Luwuk, Indonesia",earthquake,5.4,2.9,,,reviewed,us,us
+2015-03-05T00:07:12.090Z,0.2059,96.9588,10,5.3,mww,,21,3.156,0.58,us,usc000tv3f,2022-07-28T00:28:14.094Z,"247 km SSW of Singkil, Indonesia",earthquake,8.3,1.7,,,reviewed,us,us
+2015-03-03T10:37:30.050Z,-0.7789,98.7161,28,6.1,mww,,22,2.362,0.91,us,usc000tumx,2022-07-28T00:07:57.043Z,"157 km W of Pariaman, Indonesia",earthquake,6.9,1.7,,,reviewed,us,us
+2015-03-01T03:32:33.780Z,0.0241,124.4702,62,5.6,mwb,,18,2.001,1.03,us,usc000tu4z,2022-07-27T23:45:48.260Z,"147 km SSW of Tomohon, Indonesia",earthquake,5.9,1.6,0.048,42,reviewed,us,us
+2015-02-27T13:45:05.370Z,-7.2968,122.5348,552.06,7,mww,,12,1.362,1.12,us,usc000ttkd,2022-07-27T23:24:17.079Z,"150 km NNE of Maumere, Indonesia",earthquake,7.1,3.6,,,reviewed,us,us
+2015-02-22T06:10:33.740Z,-4.9692,133.9018,10,5.2,mwc,,20,2.62,0.72,us,usc000ts8n,2016-11-10T21:46:35.269Z,"146 km ENE of Tual, Indonesia",earthquake,6.5,1.7,,,reviewed,us,gcmt
+2015-02-08T15:09:08.950Z,-2.4318,119.3699,37.28,5.6,mwb,,34,2.593,0.67,us,usc000tn7f,2022-05-03T17:13:01.305Z,"60 km ENE of Mamuju, Indonesia",earthquake,6.3,5.2,0.063,24,reviewed,us,us
+2015-01-27T00:53:19.120Z,1.3368,97.2402,12.58,5.7,mww,,25,0.336,1.08,us,usb000tii2,2022-07-27T16:56:12.249Z,"121 km SSW of Singkil, Indonesia",earthquake,6.8,2.6,,,reviewed,us,us
+2015-01-25T09:20:56.390Z,1.1408,126.4303,35,5.3,mwc,,28,1.005,1.24,us,usc000tiwn,2022-07-27T16:30:36.624Z,"113 km WNW of Ternate, Indonesia",earthquake,7.3,1.8,,,reviewed,us,gcmt
+2015-01-19T17:19:45.650Z,4.6079,119.7571,11,5.5,mww,,23,1.376,0.74,us,usc000th7m,2022-07-27T15:37:16.180Z,"23 km SSW of Manuk Mangkaw, Philippines",earthquake,5.9,1.7,,,reviewed,us,us
+2015-01-17T23:39:51.870Z,-5.7726,131.8634,56.76,5.5,mww,,36,2.266,0.78,us,usc000tgvb,2022-05-03T18:21:56.888Z,"99 km W of Tual, Indonesia",earthquake,6.8,4.6,,,reviewed,us,us
+2015-01-12T20:25:14.170Z,-5.587,133.9223,20.91,5.6,mww,,18,3.131,0.82,us,usc000tewz,2022-05-03T17:10:07.359Z,"129 km E of Tual, Indonesia",earthquake,6.3,3,,,reviewed,us,us
+2014-12-21T11:34:13.570Z,2.0892,126.6483,41,6.3,mww,,19,1.492,0.98,us,usc000t8vq,2022-05-03T17:08:41.090Z,"156 km WNW of Tobelo, Indonesia",earthquake,6.1,1.8,,,reviewed,us,us
+2014-12-17T06:10:05.700Z,-3.8295,100.1432,10,5.9,mww,,27,2.854,1.26,us,usc000t7kd,2022-07-27T10:46:22.686Z,"235 km W of Bengkulu, Indonesia",earthquake,5.4,1.4,,,reviewed,us,us
+2014-12-09T03:09:22.520Z,1.5378,126.232,40.71,5.7,mww,,25,1.366,0.54,us,usc000t4qz,2022-05-03T17:08:25.037Z,"140 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,5.9,4,,,reviewed,us,us
+2014-12-08T12:51:26.830Z,-1.8198,138.7381,40.18,5.4,mwc,,16,2.082,0.87,us,usc000t4j7,2022-05-03T17:08:10.355Z,"227 km WNW of Abepura, Indonesia",earthquake,7.2,4.6,,,reviewed,us,gcmt
+2014-12-06T22:05:10.730Z,-6.11,130.4829,116,6,mww,,10,2.029,0.74,us,usc000t4bd,2022-07-27T09:52:10.591Z,"Banda Sea",earthquake,6.1,1.8,,,reviewed,us,us
+2014-12-03T00:27:04.430Z,-2.9324,122.423,10,5.5,mwb,,25,1.91,1.2,us,usb000t2cn,2022-05-03T17:11:31.591Z,"116 km N of Kendari, Indonesia",earthquake,4.8,1.7,0.052,36,reviewed,us,us
+2014-11-29T19:40:10.610Z,2.3835,127.0084,37,5.8,mww,,19,1.64,0.81,us,usb000t18g,2022-05-03T18:20:31.112Z,"132 km WNW of Tobelo, Indonesia",earthquake,6.6,1.9,,,reviewed,us,us
+2014-11-26T14:49:49.610Z,1.8122,126.4582,30.39,5.6,mb,,20,1.375,0.78,us,usb000t098,2022-05-03T17:07:21.918Z,"152 km NW of Ternate, Indonesia",earthquake,6.8,3.2,0.038,248,reviewed,us,us
+2014-11-26T14:33:43.640Z,1.9604,126.5751,39,6.8,mww,,19,1.421,1.19,us,usb000t08w,2022-07-27T08:49:02.024Z,"157 km NW of Ternate, Indonesia",earthquake,4.3,1.7,,,reviewed,us,us
+2014-11-21T10:10:19.630Z,2.2999,127.0562,35,6.5,mww,,9,1.549,1.16,us,usb000syhz,2022-07-27T08:22:04.644Z,"123 km WNW of Tobelo, Indonesia",earthquake,5.1,1.8,,,reviewed,us,us
+2014-11-18T04:47:16.630Z,1.8693,126.4751,30,5.8,mww,,19,1.408,0.87,us,usc000sycq,2022-05-03T18:20:08.511Z,"156 km NW of Ternate, Indonesia",earthquake,5.4,1.8,,,reviewed,us,us
+2014-11-15T09:47:57.850Z,1.7859,126.5628,35,5.5,mww,,28,1.288,0.93,us,usc000sxkt,2022-05-03T17:06:42.071Z,"143 km NW of Ternate, Indonesia",earthquake,5.7,0.8,,,reviewed,us,us
+2014-11-15T03:08:04.590Z,-0.1448,123.8891,90.28,5.9,mww,,14,1.429,1,us,usc000sxhm,2022-05-03T17:06:40.589Z,"118 km SE of Gorontalo, Indonesia",earthquake,6.9,3.9,,,reviewed,us,us
+2014-11-15T02:34:59.790Z,1.6728,126.2983,44.94,5.9,mb,,59,1.393,1.18,us,usb000t0pj,2022-05-03T18:19:58.574Z,"148 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,9.8,7.5,0.122,33,reviewed,us,us
+2014-11-15T02:31:41.720Z,1.8929,126.5217,45,7.1,mww,,18,1.397,0.71,us,usc000sxh8,2022-08-07T04:11:47.109Z,"155 km NW of Ternate, Indonesia",earthquake,5.8,1.7,,,reviewed,us,us
+2014-11-07T00:20:47.170Z,4.78,95.0654,39,5.5,mww,,21,1.927,1.08,us,usc000sv89,2022-07-27T06:44:15.749Z,"89 km SSW of Banda Aceh, Indonesia",earthquake,6.3,1.5,,,reviewed,us,us
+2014-10-30T12:11:35.650Z,-6.9881,117.5894,535,5.7,mww,,21,2.91,0.76,us,usb000srnq,2022-05-03T18:26:18.477Z,"157 km N of Pototano, Indonesia",earthquake,8.8,1.9,,,reviewed,us,us
+2014-10-05T14:52:32.400Z,-1.3122,132.4019,3.03,5.3,mwb,,18,1.218,0.83,us,usb000siyn,2022-05-03T17:03:57.193Z,"135 km ESE of Sorong, Indonesia",earthquake,6.3,2.9,0.059,28,reviewed,us,us
+2014-09-20T18:27:13.710Z,-0.7667,134.3003,11.84,5.5,mb,,16,2.962,0.87,us,usb000seiy,2022-05-03T17:02:03.517Z,"28 km ENE of Manokwari, Indonesia",earthquake,7,3.1,0.047,164,reviewed,us,us
+2014-09-10T09:32:57.880Z,-0.297,125.1287,14.74,5.3,mwc,,28,2.47,1.08,us,usb000sb05,2014-12-08T23:30:55.040Z,"178 km S of Tondano, Indonesia",earthquake,6.6,3,,,reviewed,us,gcmt
+2014-09-10T05:19:24.060Z,-0.2002,125.0922,40.82,5.6,mb,,26,2.466,1.06,us,usb000sayv,2022-05-03T17:01:04.872Z,"167 km S of Tondano, Indonesia",earthquake,6.5,4.6,0.052,132,reviewed,us,us
+2014-09-10T05:16:53.210Z,-0.1835,125.1251,30,5.9,mww,,23,2.434,1.15,us,usb000sayt,2022-05-03T18:18:13.225Z,"166 km S of Tondano, Indonesia",earthquake,4.7,1.7,,,reviewed,us,us
+2014-09-10T02:46:06.430Z,-0.2422,125.104,35,6.2,mww,,28,2.463,0.52,us,usb000say6,2022-05-03T18:18:11.844Z,"172 km S of Tondano, Indonesia",earthquake,5.7,1.8,,,reviewed,us,us
+2014-08-10T13:33:21.030Z,5.8688,127.1348,78,5.6,mwb,,27,1.952,0.75,us,usb000s1pi,2022-07-26T21:57:08.917Z,"119 km ESE of Pondaguitan, Philippines",earthquake,,1.7,0.052,36,reviewed,us,us
+2014-08-06T11:45:22.680Z,-7.2741,128.0364,10,6.2,mww,,16,3.309,0.89,us,usb000s0r6,2022-05-03T18:29:46.745Z,"179 km NE of Lospalos, Timor Leste",earthquake,,1.6,,,reviewed,us,us
+2014-07-14T07:59:57.290Z,5.7144,126.4776,20,6.3,mww,,44,1.615,1.07,us,usb000rsr5,2022-08-07T00:44:04.310Z,"78 km SSE of Pondaguitan, Philippines",earthquake,,1.7,,,reviewed,us,us
+2014-07-14T05:05:03.200Z,-8.8188,111.2529,52.51,5.5,mww,,44,1.154,1.23,us,usb000rsqi,2022-07-26T20:52:56.700Z,"96 km SSW of Trenggalek, Indonesia",earthquake,,3.1,,,reviewed,us,us
+2014-07-05T09:39:27.790Z,1.9335,96.9388,20,6,mww,,16,0.892,0.73,us,usc000rqs7,2022-05-03T16:56:02.204Z,"86 km SE of Sinabang, Indonesia",earthquake,,1.7,,,reviewed,us,us
+2014-06-21T21:51:50.490Z,-0.099,122.939,117,5.4,mwb,,13,0.951,0.93,us,usc000rjrn,2014-09-19T17:23:03.000Z,"71 km S of Gorontalo, Indonesia",earthquake,,1.8,0.058,29,reviewed,us,us
+2014-05-18T10:59:21.500Z,3.1506,93.8608,4.78,5.5,mwb,,30,3.706,1.3,us,usb000qteu,2022-05-03T16:51:40.765Z,"274 km WSW of Meulaboh, Indonesia",earthquake,,3.4,0.044,50,reviewed,us,us
+2014-05-09T05:44:27.820Z,5.6823,125.7098,132.48,5.4,mwb,,30,1.384,1.08,us,usb000qf6m,2022-07-26T14:41:22.990Z,"23 km E of Kalbay, Philippines",earthquake,,3.8,0.068,21,reviewed,us,us
+2014-05-02T08:43:36.500Z,-3.8148,127.4008,46.58,5.7,mww,,23,4.555,1.01,us,usb000q6wt,2022-05-03T16:49:06.877Z,"87 km W of Ambon, Indonesia",earthquake,,4.4,,,reviewed,us,us
+2014-05-01T14:35:37.060Z,1.9623,97.9671,37,5.9,mww,,26,0.762,0.99,us,usb000q6ba,2022-07-26T14:17:52.582Z,"41 km SSE of Singkil, Indonesia",earthquake,,1.9,,,reviewed,us,us
+2014-04-17T04:38:17.700Z,4.5162,122.9351,572.92,5.8,mwb,,42,3.654,0.81,us,usb000pngz,2022-05-03T16:48:01.166Z,"203 km SE of Tabiauan, Philippines",earthquake,,4.7,0.05,39,reviewed,us,us
+2014-04-03T09:30:24.930Z,-5.2416,102.2802,44.12,5.7,mwb,,38,1.104,1.02,us,usc000p2la,2022-05-03T16:47:03.669Z,"159 km S of Bengkulu, Indonesia",earthquake,,3.1,0.061,26,reviewed,us,us
+2014-03-26T20:47:51.220Z,1.7542,127.5146,146.84,5.4,mww,,22,0.986,0.72,us,usc000nrzc,2022-07-26T10:41:13.744Z,"55 km W of Tobelo, Indonesia",earthquake,,3.9,,,reviewed,us,us
+2014-03-15T10:58:46.160Z,2.8381,99.0717,171.61,5.4,mwc,,18,0.204,0.89,us,usc000ncdc,2014-05-16T21:51:43.000Z,"13 km S of Pematangsiantar, Indonesia",earthquake,,3.7,,,reviewed,us,gcmt
+2014-02-23T15:06:51.230Z,-1.1017,120.2018,20,5.3,mwb,,15,2.57,1.04,us,usc000mx0u,2022-05-03T16:43:25.571Z,"42 km ESE of Palu, Indonesia",earthquake,,1.6,0.086,13,reviewed,us,us
+2014-02-18T03:34:12.570Z,1.7545,122.8831,43.29,5.3,mwc,,22,2.779,1.11,us,usc000msg6,2014-04-30T21:18:25.000Z,"136 km N of Gorontalo, Indonesia",earthquake,,4.4,,,reviewed,us,gcmt
+2014-02-10T18:06:17.930Z,-8.2076,124.5284,18.6,5.5,mwb,,40,1.559,0.94,us,usc000mmb5,2022-05-03T16:41:41.938Z,"87 km WNW of Maubara, Timor Leste",earthquake,,2.4,0.052,35,reviewed,us,us
+2014-02-03T22:36:37.090Z,-7.1916,128.1716,7.05,5.8,mww,,17,3.198,1.39,us,usc000mgma,2022-05-03T16:40:56.341Z,"195 km NE of Lospalos, Timor Leste",earthquake,,2.7,,,reviewed,us,us
+2014-01-25T05:14:18.510Z,-7.9855,109.2653,66,6.1,mww,,20,1.248,1.45,us,usb000m7wd,2022-08-06T21:21:38.314Z,"39 km S of Kroya, Indonesia",earthquake,,1.7,,,reviewed,us,us
+2014-01-23T00:52:15.320Z,-7.1045,120.3147,579,5.5,mwb,,30,4.714,0.94,us,usb000m6hr,2022-05-03T16:38:38.077Z,"160 km NNE of Labuan Bajo, Indonesia",earthquake,,1.9,0.063,24,reviewed,us,us
+2013-12-29T15:37:38.060Z,1.2996,126.2455,42.94,5.7,mww,,25,1.237,0.86,us,usc000ltqk,2022-05-03T16:36:56.689Z,"138 km WNW of Ternate, Indonesia",earthquake,,2,,,reviewed,us,us
+2013-12-19T21:34:12.610Z,-6.9084,128.3228,10.63,5.7,mwb,,15,3.138,0.85,us,usc000lnj6,2022-05-03T16:36:20.631Z,"230 km NE of Lospalos, Timor Leste",earthquake,,2.8,0.093,,reviewed,us,us
+2013-12-09T08:47:23.980Z,2.7392,128.4034,35,5.2,mwb,,31,2.211,1.07,us,usb000ldz3,2014-02-15T01:52:33.383Z,"120 km NNE of Tobelo, Indonesia",earthquake,,1.8,0.063,,reviewed,us,us
+2013-12-01T06:29:57.800Z,2.044,96.8261,20,6,mww,,27,1.049,0.89,us,usb000l8pb,2022-05-03T16:35:07.184Z,"69 km SE of Sinabang, Indonesia",earthquake,,1.7,,,reviewed,us,us
+2013-12-01T01:24:13.520Z,-7.0269,128.3791,9.87,6.4,mww,,11,3.046,0.7,us,usb000l8mb,2022-07-26T02:43:33.244Z,"224 km NE of Lospalos, Timor Leste",earthquake,,2.1,,,reviewed,us,us
+2013-11-20T18:44:19.090Z,-3.9513,133.6494,29.12,4.8,mb,,55,3.878,0.8,us,usd0002m3k,2014-02-11T02:18:52.000Z,"210 km NNE of Tual, Indonesia",earthquake,,4.7,0.088,,reviewed,us,us
+2013-11-19T13:32:51.230Z,2.6403,128.4339,38,6,mww,,19,2.14,1.01,us,usb000l219,2022-05-03T16:33:41.902Z,"111 km NNE of Tobelo, Indonesia",earthquake,,1.7,,,reviewed,us,us
+2013-11-03T11:03:38.400Z,4.6565,123.3471,532,5.9,mww,,15,3.267,1.42,us,usb000ks1g,2022-05-03T16:31:01.496Z,"195 km SSW of Palimbang, Philippines",earthquake,,1.8,,,reviewed,us,us
+2013-10-22T05:40:39.100Z,5.1033,95.9709,9.75,5.4,mwb,,35,0.98,1.43,us,usb000ki9y,2022-05-03T16:30:07.612Z,"31 km S of Sigli, Indonesia",earthquake,,3.3,0.05,,reviewed,us,us
+2013-10-15T17:13:50.640Z,-7.0695,125.756,502.56,4.5,mb,,40,3.048,0.86,us,usb000kduc,2013-12-30T23:41:09.000Z,"161 km N of Metinaro, Timor Leste",earthquake,,8.4,0.075,,reviewed,us,us
+2013-10-13T17:32:45.610Z,3.9633,95.8634,46,5.6,mwb,,40,1.657,1.17,us,usb000kccu,2022-05-03T17:34:21.147Z,"35 km SW of Meulaboh, Indonesia",earthquake,,1.9,0.044,,reviewed,us,us
+2013-10-12T14:30:09.700Z,0.7452,122.2107,96.63,5.5,mwc,,37,1.861,1.17,us,usb000kbpa,2022-05-03T16:29:14.799Z,"97 km WNW of Gorontalo, Indonesia",earthquake,,5.1,,,reviewed,us,gcmt
+2013-09-21T01:39:15.570Z,-7.3308,120.0106,549.92,6.1,mww,,34,2.315,1.04,us,usb000jx0m,2022-05-03T17:51:14.834Z,"129 km N of Labuan Bajo, Indonesia",earthquake,,3.3,,,reviewed,us,us
+2013-09-09T21:41:33.180Z,1.3814,122.2235,22.5,5.6,mww,,23,2.468,1.34,us,usb000jmsl,2022-05-03T17:46:29.087Z,"132 km NW of Gorontalo, Indonesia",earthquake,,3.2,,,reviewed,us,us
+2013-09-07T13:55:50.070Z,-6.4186,130.2621,120,5.4,mwb,,17,1.863,0.94,us,usb000jky2,2013-11-15T03:20:27.000Z,"289 km WSW of Tual, Indonesia",earthquake,,1.8,0.08,,reviewed,us,us
+2013-09-01T11:52:29.930Z,-7.44,128.2209,112,6.5,mww,,11,3.097,1.12,us,usb000jelf,2022-07-25T21:33:31.917Z,"180 km NE of Lospalos, Timor Leste",earthquake,,1.7,,,reviewed,us,us
+2013-08-28T05:43:25.380Z,-2.0273,100.7661,62.95,5.4,mwc,,25,2.353,0.97,us,usb000jci1,2013-11-06T01:33:31.000Z,"69 km W of Sungai Penuh, Indonesia",earthquake,,4.1,,,reviewed,us,us_gcmt
+2013-08-12T00:53:43.980Z,-7.1354,129.8088,95,6,mww,,13,1.7,0.68,us,usb000j0vl,2022-07-25T20:14:34.860Z,"Kepulauan Babar, Indonesia",earthquake,,1.8,,,reviewed,us,us
+2013-07-21T13:00:22.680Z,-3.494,135.385,28.9,5.2,mwb,207,25,,0.8,us,usb000ij2v,2022-05-03T16:24:22.017Z,"19 km SW of Nabire, Indonesia",earthquake,,7.1,,,reviewed,us,us
+2013-07-09T17:04:15.390Z,-3.359,100.458,17.5,5.6,mwb,413,28,,0.8,us,usb000ia6p,2022-05-03T16:26:21.617Z,"177 km SW of Sungai Penuh, Indonesia",earthquake,,2.5,,,reviewed,us,us
+2013-07-08T02:13:40.600Z,-8.803,113.002,60,5.7,mww,97,24,,1.45,us,usb000i8n2,2022-07-25T18:06:14.735Z,"70 km SW of Kencong, Indonesia",earthquake,,,,,reviewed,us,us
+2013-07-06T05:05:06.650Z,-3.269,100.564,21,6,mww,121,37,,1.18,us,usb000i7na,2022-05-03T16:22:50.834Z,"162 km SW of Sungai Penuh, Indonesia",earthquake,,,,,reviewed,us,us
+2013-07-02T13:55:37.600Z,4.664,96.65,10,5.5,mwb,160,24.9,,1.06,us,usb000i4td,2022-05-03T16:22:44.875Z,"59 km S of Bireun, Indonesia",earthquake,,,,,reviewed,us,us
+2013-07-02T07:37:02.610Z,4.645,96.665,13,6.1,mww,334,21,,0.65,us,usb000i4re,2022-07-25T17:42:52.495Z,"61 km S of Bireun, Indonesia",earthquake,,,,,reviewed,us,us
+2013-06-27T08:38:08.300Z,1.114,127.13,120,5.7,mww,366,23,,0.75,us,usb000i181,2022-07-25T17:26:47.338Z,"45 km NW of Ternate, Indonesia",earthquake,,,,,reviewed,us,us
+2013-06-26T22:59:00.990Z,-0.141,125.054,32.7,5.5,mww,125,23,,1.43,us,usb000i0ye,2022-05-03T16:22:28.400Z,"160 km S of Tondano, Indonesia",earthquake,,3,,,reviewed,us,us
+2013-06-13T16:47:23.320Z,-10.004,107.236,9,6.7,mww,515,24,,0.84,us,usc000hpsd,2022-07-25T16:30:23.019Z,"south of Java, Indonesia",earthquake,,2.7,,,reviewed,us,us
+2013-06-05T19:23:02.900Z,2.96,117.689,16.4,4.8,mb,43,76,,0.71,us,usd000218p,2022-07-25T04:39:38.219Z,"40 km SSE of Tarakan, Indonesia",earthquake,,4.7,,23,reviewed,us,us
+2013-05-25T10:32:54.540Z,-7.51,127.916,100,5.5,mwb,456,17,,0.85,us,usb000h5zp,2022-07-25T03:11:21.567Z,"150 km NE of Lospalos, Timor Leste",earthquake,,,,,reviewed,us,us
+2013-04-20T04:51:12.000Z,-6.292,130.218,108.1,5.9,mww,456,12.9,,0.73,us,usb000gcgu,2022-07-25T00:11:00.333Z,"290 km WSW of Tual, Indonesia",earthquake,,2.7,,,reviewed,us,us
+2013-04-17T05:05:03.050Z,-2.768,138.75,50.4,5.5,mwb,234,18,,0.99,us,usb000g8ti,2022-05-03T16:14:16.982Z,"210 km W of Abepura, Indonesia",earthquake,,4.5,,,reviewed,us,us
+2013-04-08T18:53:44.370Z,-7.091,106.072,56.4,5.3,mwb,410,23.3,,0.82,us,usb000g2b9,2022-07-24T23:04:32.972Z,"54 km WSW of Pelabuhanratu, Indonesia",earthquake,,3.7,,,reviewed,us,us
+2013-04-06T04:42:35.860Z,-3.517,138.476,66,7,mww,640,11.4,,0.81,us,usb000g13s,2022-07-24T22:42:03.110Z,"260 km WSW of Abepura, Indonesia",earthquake,,,,,reviewed,us,us
+2013-04-05T17:35:28.850Z,0.219,98.645,31.8,5,mwb,389,21,,0.86,us,usb000g0lm,2022-05-03T16:13:17.438Z,"146 km SSW of Padangsidempuan, Indonesia",earthquake,,3.1,,,reviewed,us,us
+2013-04-02T15:13:41.370Z,-7.363,128.557,158.1,5.2,mwc,393,13.6,,0.85,us,us2013nmaz,2014-11-07T01:50:29.508Z,"214 km NE of Lospalos, Timor Leste",earthquake,,3.4,,,reviewed,us,gcmt
+2013-03-26T17:23:58.100Z,-9.353,120.278,68.7,5.5,mwb,296,33.3,,0.99,us,usb000fsz8,2020-07-10T17:59:14.007Z,"33 km N of Waingapu, Indonesia",earthquake,,3.9,,,reviewed,us,us
+2013-02-23T11:09:19.270Z,-8.467,127.467,20,5.9,mww,267,19.3,,0.95,us,usc000fc5f,2022-07-24T18:50:42.105Z,"51 km E of Lospalos, Timor Leste",earthquake,,,,,reviewed,us,us
+2013-02-16T04:37:36.220Z,5.812,125.748,105,6.1,mww,513,17.6,,0.76,us,usc000f8be,2022-07-24T18:11:37.166Z,"16 km SE of Caburan, Philippines",earthquake,,,,,reviewed,us,us
+2013-02-13T11:00:24.850Z,-2.99,101.297,55.3,5.3,mwc,212,33.8,,0.88,us,usc000f6jp,2022-05-03T16:06:32.831Z,"103 km S of Sungai Penuh, Indonesia",earthquake,,4.3,,,reviewed,us,gcmt
+2013-02-12T22:25:03.710Z,-6.905,131.35,54.2,5.3,mwc,195,21.4,,1.14,us,us2013lndj,2022-05-03T16:06:26.002Z,"209 km SW of Tual, Indonesia",earthquake,,5.4,,,reviewed,us,gcmt
+2013-02-06T22:12:17.610Z,-1.537,100.279,10,5.3,mwc,233,22.6,,1.14,us,usc000f2p0,2022-07-24T17:34:57.998Z,"65 km S of Padang, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2013-01-21T22:22:52.760Z,4.927,95.907,12,6.1,mww,498,16.5,,1.24,us,usb000esgn,2022-07-24T15:57:46.922Z,"50 km S of Sigli, Indonesia",earthquake,,,,,reviewed,us,us

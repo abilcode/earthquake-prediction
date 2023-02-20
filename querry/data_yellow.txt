@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-09-25T23:46:43.543Z,-3.4528,128.3699,12.26,6.5,mww,,15,3.909,0.95,us,us70005lfd,2020-07-10T17:48:10.911Z,"33 km NE of Ambon, Indonesia",earthquake,6.2,2.4,0.038,65,reviewed,us,us
+2018-09-28T10:25:04.730Z,-1.0465,119.9346,10,5.8,mb,,16,2.304,1.27,us,us1000h3pn,2022-05-03T19:53:32.624Z,"16 km SSE of Palu, Indonesia",earthquake,5.7,1.7,0.049,153,reviewed,us,us
+2018-07-28T22:47:38.740Z,-8.2395,116.508,14,6.4,mww,,14,2.342,1.15,us,us2000ggbs,2022-05-03T19:45:52.527Z,"33 km NNW of Labuan Lombok, Indonesia",earthquake,3.6,1.6,0.054,33,reviewed,us,us
+2016-12-06T22:03:33.390Z,5.2834,96.1678,13,6.5,mww,,27,0.778,1.13,us,us10007ghm,2022-05-03T18:04:11.730Z,"14 km WNW of Reuleuet, Indonesia",earthquake,5.6,0.2,,,reviewed,us,us

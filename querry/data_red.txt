@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-09-28T10:02:45.250Z,-0.2559,119.8462,20,7.5,mww,,13,1.649,1,us,us1000h3p4,2023-01-03T23:50:26.952Z,"72 km N of Palu, Indonesia",earthquake,5.8,1.8,0.05,39,reviewed,us,us
