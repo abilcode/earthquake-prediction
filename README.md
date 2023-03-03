@@ -1,6 +1,9 @@
 # earthquake_prediction
 Final Datavidia Repo
 
+## Report :
+Please go to "Ayam Girang_Makalah_Prediksi Waktu Kedatangan Gempa Bumi Berdasarkan Seismogram Dengan Pembelajaran Mesin Berbasis Pohon.pdf" file on this repo
+
 
 ## Setup
 
