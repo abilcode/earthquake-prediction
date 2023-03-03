@@ -2,8 +2,7 @@
 Final Datavidia Repo
 
 ## Report :
-Please go to "Ayam Girang_Makalah_Prediksi Waktu Kedatangan Gempa Bumi Berdasarkan Seismogram Dengan Pembelajaran Mesin Berbasis Pohon.pdf" file on this repo
-
+Please go to this <a href="https://github.com/abilcode/earthquake-prediction/blob/main/Ayam%20Girang_Makalah_Prediksi%20Waktu%20Kedatangan%20Gempa%20Bumi%20Berdasarkan%20Seismogram%20Dengan%20Pembelajaran%20Mesin%20Berbasis%20Pohon.pdf">link</a>
 
 ## Setup
 
